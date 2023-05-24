@@ -1,6 +1,8 @@
 const express = require('express');
 const fetch = require('node-fetch');
 
+require('dotenv').config();
+
 const app = express();
 
 const endpoint = 'https://www.transitchicago.com/traintracker/PredictionMap/tmTrains.aspx?line=R%2CP%2CY%2CB%2CV%2CG%2CT%2CO&MaxPredictions=200';
@@ -115,7 +117,7 @@ const updateData = () => {
     .then((response) => response.json())
     .then((data) => {
       processData(data);
-      setInterval(updateData, 15000);
+      setInterval(updateData, process.env.UPDATE_INTERVAL);
     })
     .catch((error) => {
       console.log(error);
