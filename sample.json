@@ -1,0 +1,7809 @@
+{
+  "status": "OK",
+  "dataObject": [
+    {
+      "Line": "R",
+      "Markers": [
+        {
+          "Position": {
+            "Lat": 41.93161,
+            "Lng": -87.65307
+          },
+          "RunNumber": "815",
+          "CurrentStationId": "81487",
+          "ExitStationId": "81780",
+          "Direction": 1.6092499344971,
+          "LineName": "Red",
+          "DirMod": "to",
+          "DestName": "Howard",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_red",
+          "Predictions": [
+            [
+              41320.0,
+              "Belmont",
+              "2 min",
+              ""
+            ],
+            [
+              41420.0,
+              "Addison",
+              "5 min",
+              ""
+            ],
+            [
+              40080.0,
+              "Sheridan",
+              "8 min",
+              ""
+            ],
+            [
+              40540.0,
+              "Wilson",
+              "11 min",
+              ""
+            ],
+            [
+              41200.0,
+              "Argyle",
+              "13 min",
+              ""
+            ],
+            [
+              41380.0,
+              "Bryn Mawr",
+              "17 min",
+              ""
+            ],
+            [
+              40880.0,
+              "Thorndale",
+              "18 min",
+              ""
+            ],
+            [
+              40760.0,
+              "Granville",
+              "19 min",
+              ""
+            ],
+            [
+              41300.0,
+              "Loyola",
+              "21 min",
+              ""
+            ],
+            [
+              40100.0,
+              "Morse",
+              "23 min",
+              ""
+            ],
+            [
+              41190.0,
+              "Jarvis",
+              "25 min",
+              ""
+            ],
+            [
+              40900.0,
+              "Howard",
+              "29 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.89667,
+            "Lng": -87.62818
+          },
+          "RunNumber": "816",
+          "CurrentStationId": "85440",
+          "ExitStationId": "85788",
+          "Direction": 4.75734793175562,
+          "LineName": "Red",
+          "DirMod": "to",
+          "DestName": "95th/Dan Ryan",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_red",
+          "Predictions": [
+            [
+              40330.0,
+              "Grand",
+              "Due",
+              ""
+            ],
+            [
+              41660.0,
+              "Lake",
+              "3 min",
+              ""
+            ],
+            [
+              41090.0,
+              "Monroe",
+              "5 min",
+              ""
+            ],
+            [
+              40560.0,
+              "Jackson",
+              "6 min",
+              ""
+            ],
+            [
+              41490.0,
+              "Harrison",
+              "8 min",
+              ""
+            ],
+            [
+              41400.0,
+              "Roosevelt",
+              "9 min",
+              ""
+            ],
+            [
+              41000.0,
+              "Cermak-Chinatown",
+              "12 min",
+              ""
+            ],
+            [
+              40190.0,
+              "Sox-35th",
+              "15 min",
+              ""
+            ],
+            [
+              41230.0,
+              "47th",
+              "18 min",
+              ""
+            ],
+            [
+              41170.0,
+              "Garfield",
+              "20 min",
+              ""
+            ],
+            [
+              40910.0,
+              "63rd",
+              "22 min",
+              ""
+            ],
+            [
+              40990.0,
+              "69th",
+              "25 min",
+              ""
+            ],
+            [
+              40240.0,
+              "79th",
+              "27 min",
+              ""
+            ],
+            [
+              41430.0,
+              "87th",
+              "30 min",
+              ""
+            ],
+            [
+              40450.0,
+              "95th/Dan Ryan",
+              "31 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.95377,
+            "Lng": -87.65493
+          },
+          "RunNumber": "817",
+          "CurrentStationId": "85260",
+          "ExitStationId": "85788",
+          "Direction": 6.24882734487275,
+          "LineName": "Red",
+          "DirMod": "to",
+          "DestName": "95th/Dan Ryan",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_red",
+          "Predictions": [
+            [
+              41420.0,
+              "Addison",
+              "2 min",
+              ""
+            ],
+            [
+              41320.0,
+              "Belmont",
+              "5 min",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "8 min",
+              ""
+            ],
+            [
+              40650.0,
+              "North/Clybourn",
+              "11 min",
+              ""
+            ],
+            [
+              40630.0,
+              "Clark/Division",
+              "13 min",
+              ""
+            ],
+            [
+              41450.0,
+              "Chicago",
+              "15 min",
+              ""
+            ],
+            [
+              40330.0,
+              "Grand",
+              "17 min",
+              ""
+            ],
+            [
+              41660.0,
+              "Lake",
+              "19 min",
+              ""
+            ],
+            [
+              41090.0,
+              "Monroe",
+              "21 min",
+              ""
+            ],
+            [
+              40560.0,
+              "Jackson",
+              "22 min",
+              ""
+            ],
+            [
+              41490.0,
+              "Harrison",
+              "23 min",
+              ""
+            ],
+            [
+              41400.0,
+              "Roosevelt",
+              "25 min",
+              ""
+            ],
+            [
+              41000.0,
+              "Cermak-Chinatown",
+              "28 min",
+              ""
+            ],
+            [
+              40190.0,
+              "Sox-35th",
+              "31 min",
+              ""
+            ],
+            [
+              41230.0,
+              "47th",
+              "34 min",
+              ""
+            ],
+            [
+              41170.0,
+              "Garfield",
+              "36 min",
+              ""
+            ],
+            [
+              40910.0,
+              "63rd",
+              "38 min",
+              ""
+            ],
+            [
+              40990.0,
+              "69th",
+              "41 min",
+              ""
+            ],
+            [
+              40240.0,
+              "79th",
+              "43 min",
+              ""
+            ],
+            [
+              41430.0,
+              "87th",
+              "45 min",
+              ""
+            ],
+            [
+              40450.0,
+              "95th/Dan Ryan",
+              "47 min",
+              ""
+            ]
+          ],
+          "Flags": "E"
+        },
+        {
+          "Position": {
+            "Lat": 42.00107,
+            "Lng": -87.66106
+          },
+          "RunNumber": "818",
+          "CurrentStationId": "85099",
+          "ExitStationId": "85788",
+          "Direction": 5.59872178536179,
+          "LineName": "Red",
+          "DirMod": "to",
+          "DestName": "95th/Dan Ryan",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_red",
+          "Predictions": [
+            [
+              41300.0,
+              "Loyola",
+              "Due",
+              ""
+            ],
+            [
+              40760.0,
+              "Granville",
+              "2 min",
+              ""
+            ],
+            [
+              40880.0,
+              "Thorndale",
+              "4 min",
+              ""
+            ],
+            [
+              41380.0,
+              "Bryn Mawr",
+              "5 min",
+              ""
+            ],
+            [
+              41200.0,
+              "Argyle",
+              "8 min",
+              ""
+            ],
+            [
+              40540.0,
+              "Wilson",
+              "9 min",
+              ""
+            ],
+            [
+              40080.0,
+              "Sheridan",
+              "13 min",
+              ""
+            ],
+            [
+              41420.0,
+              "Addison",
+              "15 min",
+              ""
+            ],
+            [
+              41320.0,
+              "Belmont",
+              "18 min",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "21 min",
+              ""
+            ],
+            [
+              40650.0,
+              "North/Clybourn",
+              "24 min",
+              ""
+            ],
+            [
+              40630.0,
+              "Clark/Division",
+              "27 min",
+              ""
+            ],
+            [
+              41450.0,
+              "Chicago",
+              "29 min",
+              ""
+            ],
+            [
+              40330.0,
+              "Grand",
+              "30 min",
+              ""
+            ],
+            [
+              41660.0,
+              "Lake",
+              "32 min",
+              ""
+            ],
+            [
+              41090.0,
+              "Monroe",
+              "34 min",
+              ""
+            ],
+            [
+              40560.0,
+              "Jackson",
+              "35 min",
+              ""
+            ],
+            [
+              41490.0,
+              "Harrison",
+              "37 min",
+              ""
+            ],
+            [
+              41400.0,
+              "Roosevelt",
+              "38 min",
+              ""
+            ],
+            [
+              41000.0,
+              "Cermak-Chinatown",
+              "41 min",
+              ""
+            ],
+            [
+              40190.0,
+              "Sox-35th",
+              "44 min",
+              ""
+            ],
+            [
+              41230.0,
+              "47th",
+              "47 min",
+              ""
+            ],
+            [
+              41170.0,
+              "Garfield",
+              "49 min",
+              ""
+            ],
+            [
+              40910.0,
+              "63rd",
+              "51 min",
+              ""
+            ],
+            [
+              40990.0,
+              "69th",
+              "54 min",
+              ""
+            ],
+            [
+              40240.0,
+              "79th",
+              "56 min",
+              ""
+            ],
+            [
+              41430.0,
+              "87th",
+              "59 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.96914,
+            "Lng": -87.65849
+          },
+          "RunNumber": "821",
+          "CurrentStationId": "81600",
+          "ExitStationId": "81780",
+          "Direction": 1.56847397411657,
+          "LineName": "Red",
+          "DirMod": "to",
+          "DestName": "Howard",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_red",
+          "Predictions": [
+            [
+              41200.0,
+              "Argyle",
+              "Due",
+              ""
+            ],
+            [
+              41380.0,
+              "Bryn Mawr",
+              "4 min",
+              ""
+            ],
+            [
+              40880.0,
+              "Thorndale",
+              "5 min",
+              ""
+            ],
+            [
+              40760.0,
+              "Granville",
+              "6 min",
+              ""
+            ],
+            [
+              41300.0,
+              "Loyola",
+              "8 min",
+              ""
+            ],
+            [
+              40100.0,
+              "Morse",
+              "10 min",
+              ""
+            ],
+            [
+              41190.0,
+              "Jarvis",
+              "11 min",
+              ""
+            ],
+            [
+              40900.0,
+              "Howard",
+              "16 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.9403,
+            "Lng": -87.65339
+          },
+          "RunNumber": "822",
+          "CurrentStationId": "81501",
+          "ExitStationId": "81780",
+          "Direction": 1.58613301501715,
+          "LineName": "Red",
+          "DirMod": "to",
+          "DestName": "Howard",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_red",
+          "Predictions": [
+            [
+              41420.0,
+              "Addison",
+              "3 min",
+              ""
+            ],
+            [
+              40080.0,
+              "Sheridan",
+              "6 min",
+              ""
+            ],
+            [
+              40540.0,
+              "Wilson",
+              "9 min",
+              ""
+            ],
+            [
+              41200.0,
+              "Argyle",
+              "11 min",
+              ""
+            ],
+            [
+              41380.0,
+              "Bryn Mawr",
+              "15 min",
+              ""
+            ],
+            [
+              40880.0,
+              "Thorndale",
+              "16 min",
+              ""
+            ],
+            [
+              40760.0,
+              "Granville",
+              "17 min",
+              ""
+            ],
+            [
+              41300.0,
+              "Loyola",
+              "19 min",
+              ""
+            ],
+            [
+              40100.0,
+              "Morse",
+              "21 min",
+              ""
+            ],
+            [
+              41190.0,
+              "Jarvis",
+              "23 min",
+              ""
+            ],
+            [
+              40900.0,
+              "Howard",
+              "27 min",
+              ""
+            ]
+          ],
+          "Flags": "E"
+        },
+        {
+          "Position": {
+            "Lat": 41.90392,
+            "Lng": -87.63141
+          },
+          "RunNumber": "823",
+          "CurrentStationId": "81400",
+          "ExitStationId": "81780",
+          "Direction": 3.15227236642047,
+          "LineName": "Red",
+          "DirMod": "to",
+          "DestName": "Howard",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_red",
+          "Predictions": [
+            [
+              40650.0,
+              "North/Clybourn",
+              "3 min",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "6 min",
+              ""
+            ],
+            [
+              41320.0,
+              "Belmont",
+              "10 min",
+              ""
+            ],
+            [
+              41420.0,
+              "Addison",
+              "14 min",
+              ""
+            ],
+            [
+              40080.0,
+              "Sheridan",
+              "16 min",
+              ""
+            ],
+            [
+              40540.0,
+              "Wilson",
+              "20 min",
+              ""
+            ],
+            [
+              41200.0,
+              "Argyle",
+              "22 min",
+              ""
+            ],
+            [
+              41380.0,
+              "Bryn Mawr",
+              "25 min",
+              ""
+            ],
+            [
+              40880.0,
+              "Thorndale",
+              "27 min",
+              ""
+            ],
+            [
+              40760.0,
+              "Granville",
+              "28 min",
+              ""
+            ],
+            [
+              41300.0,
+              "Loyola",
+              "30 min",
+              ""
+            ],
+            [
+              40100.0,
+              "Morse",
+              "32 min",
+              ""
+            ],
+            [
+              41190.0,
+              "Jarvis",
+              "33 min",
+              ""
+            ],
+            [
+              40900.0,
+              "Howard",
+              "38 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.83119,
+            "Lng": -87.63064
+          },
+          "RunNumber": "911",
+          "CurrentStationId": "85640",
+          "ExitStationId": "85788",
+          "Direction": 4.74169086267718,
+          "LineName": "Red",
+          "DirMod": "to",
+          "DestName": "95th/Dan Ryan",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_red",
+          "Predictions": [
+            [
+              41230.0,
+              "47th",
+              "2 min",
+              ""
+            ],
+            [
+              41170.0,
+              "Garfield",
+              "5 min",
+              ""
+            ],
+            [
+              40910.0,
+              "63rd",
+              "7 min",
+              ""
+            ],
+            [
+              40990.0,
+              "69th",
+              "9 min",
+              ""
+            ],
+            [
+              40240.0,
+              "79th",
+              "12 min",
+              ""
+            ],
+            [
+              41430.0,
+              "87th",
+              "14 min",
+              ""
+            ],
+            [
+              40450.0,
+              "95th/Dan Ryan",
+              "16 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.81036,
+            "Lng": -87.63101
+          },
+          "RunNumber": "912",
+          "CurrentStationId": "81160",
+          "ExitStationId": "81780",
+          "Direction": 1.01117966403805,
+          "LineName": "Red",
+          "DirMod": "to",
+          "DestName": "Howard",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_red",
+          "Predictions": [
+            [
+              40190.0,
+              "Sox-35th",
+              "3 min",
+              ""
+            ],
+            [
+              41000.0,
+              "Cermak-Chinatown",
+              "6 min",
+              ""
+            ],
+            [
+              41400.0,
+              "Roosevelt",
+              "9 min",
+              ""
+            ],
+            [
+              41490.0,
+              "Harrison",
+              "11 min",
+              ""
+            ],
+            [
+              40560.0,
+              "Jackson",
+              "12 min",
+              ""
+            ],
+            [
+              41090.0,
+              "Monroe",
+              "13 min",
+              ""
+            ],
+            [
+              41660.0,
+              "Lake",
+              "15 min",
+              ""
+            ],
+            [
+              40330.0,
+              "Grand",
+              "17 min",
+              ""
+            ],
+            [
+              41450.0,
+              "Chicago",
+              "19 min",
+              ""
+            ],
+            [
+              40630.0,
+              "Clark/Division",
+              "23 min",
+              ""
+            ],
+            [
+              40650.0,
+              "North/Clybourn",
+              "26 min",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "29 min",
+              ""
+            ],
+            [
+              41320.0,
+              "Belmont",
+              "33 min",
+              ""
+            ],
+            [
+              41420.0,
+              "Addison",
+              "37 min",
+              ""
+            ],
+            [
+              40080.0,
+              "Sheridan",
+              "40 min",
+              ""
+            ],
+            [
+              40540.0,
+              "Wilson",
+              "43 min",
+              ""
+            ],
+            [
+              41200.0,
+              "Argyle",
+              "45 min",
+              ""
+            ],
+            [
+              41380.0,
+              "Bryn Mawr",
+              "49 min",
+              ""
+            ],
+            [
+              40880.0,
+              "Thorndale",
+              "50 min",
+              ""
+            ],
+            [
+              40760.0,
+              "Granville",
+              "51 min",
+              ""
+            ],
+            [
+              41300.0,
+              "Loyola",
+              "53 min",
+              ""
+            ],
+            [
+              40100.0,
+              "Morse",
+              "55 min",
+              ""
+            ],
+            [
+              41190.0,
+              "Jarvis",
+              "56 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.87945,
+            "Lng": -87.62765
+          },
+          "RunNumber": "915",
+          "CurrentStationId": "85521",
+          "ExitStationId": "85788",
+          "Direction": 4.75109176803989,
+          "LineName": "Red",
+          "DirMod": "to",
+          "DestName": "95th/Dan Ryan",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_red",
+          "Predictions": [
+            [
+              40560.0,
+              "Jackson",
+              "Due",
+              ""
+            ],
+            [
+              41400.0,
+              "Roosevelt",
+              "2 min",
+              ""
+            ],
+            [
+              41490.0,
+              "Harrison",
+              "2 min",
+              ""
+            ],
+            [
+              41000.0,
+              "Cermak-Chinatown",
+              "6 min",
+              ""
+            ],
+            [
+              40190.0,
+              "Sox-35th",
+              "9 min",
+              ""
+            ],
+            [
+              41230.0,
+              "47th",
+              "12 min",
+              ""
+            ],
+            [
+              41170.0,
+              "Garfield",
+              "14 min",
+              ""
+            ],
+            [
+              40910.0,
+              "63rd",
+              "16 min",
+              ""
+            ],
+            [
+              40990.0,
+              "69th",
+              "18 min",
+              ""
+            ],
+            [
+              40240.0,
+              "79th",
+              "21 min",
+              ""
+            ],
+            [
+              41430.0,
+              "87th",
+              "23 min",
+              ""
+            ],
+            [
+              40450.0,
+              "95th/Dan Ryan",
+              "25 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.75042,
+            "Lng": -87.62518
+          },
+          "RunNumber": "916",
+          "CurrentStationId": "81080",
+          "ExitStationId": "81780",
+          "Direction": 1.58521437547632,
+          "LineName": "Red",
+          "DirMod": "to",
+          "DestName": "Howard",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_red",
+          "Predictions": [
+            [
+              40990.0,
+              "69th",
+              "2 min",
+              ""
+            ],
+            [
+              40910.0,
+              "63rd",
+              "5 min",
+              ""
+            ],
+            [
+              41170.0,
+              "Garfield",
+              "7 min",
+              ""
+            ],
+            [
+              41230.0,
+              "47th",
+              "9 min",
+              ""
+            ],
+            [
+              40190.0,
+              "Sox-35th",
+              "12 min",
+              ""
+            ],
+            [
+              41000.0,
+              "Cermak-Chinatown",
+              "15 min",
+              ""
+            ],
+            [
+              41400.0,
+              "Roosevelt",
+              "19 min",
+              ""
+            ],
+            [
+              41490.0,
+              "Harrison",
+              "20 min",
+              ""
+            ],
+            [
+              40560.0,
+              "Jackson",
+              "22 min",
+              ""
+            ],
+            [
+              41090.0,
+              "Monroe",
+              "23 min",
+              ""
+            ],
+            [
+              41660.0,
+              "Lake",
+              "24 min",
+              ""
+            ],
+            [
+              40330.0,
+              "Grand",
+              "27 min",
+              ""
+            ],
+            [
+              41450.0,
+              "Chicago",
+              "28 min",
+              ""
+            ],
+            [
+              40630.0,
+              "Clark/Division",
+              "32 min",
+              ""
+            ],
+            [
+              40650.0,
+              "North/Clybourn",
+              "35 min",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "39 min",
+              ""
+            ],
+            [
+              41320.0,
+              "Belmont",
+              "43 min",
+              ""
+            ],
+            [
+              41420.0,
+              "Addison",
+              "46 min",
+              ""
+            ],
+            [
+              40080.0,
+              "Sheridan",
+              "49 min",
+              ""
+            ],
+            [
+              40540.0,
+              "Wilson",
+              "53 min",
+              ""
+            ],
+            [
+              41200.0,
+              "Argyle",
+              "55 min",
+              ""
+            ],
+            [
+              41380.0,
+              "Bryn Mawr",
+              "58 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.77051,
+            "Lng": -87.62586
+          },
+          "RunNumber": "918",
+          "CurrentStationId": "85712",
+          "ExitStationId": "85788",
+          "Direction": 4.74082137970968,
+          "LineName": "Red",
+          "DirMod": "to",
+          "DestName": "95th/Dan Ryan",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_red",
+          "Predictions": [
+            [
+              40990.0,
+              "69th",
+              "Due",
+              ""
+            ],
+            [
+              40240.0,
+              "79th",
+              "3 min",
+              ""
+            ],
+            [
+              41430.0,
+              "87th",
+              "5 min",
+              ""
+            ],
+            [
+              40450.0,
+              "95th/Dan Ryan",
+              "7 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.94743,
+            "Lng": -87.65363
+          },
+          "RunNumber": "919",
+          "CurrentStationId": "85280",
+          "ExitStationId": "85788",
+          "Direction": 4.7248547686529,
+          "LineName": "Red",
+          "DirMod": "to",
+          "DestName": "95th/Dan Ryan",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_red",
+          "Predictions": [
+            [
+              41320.0,
+              "Belmont",
+              "2 min",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "6 min",
+              ""
+            ],
+            [
+              40650.0,
+              "North/Clybourn",
+              "8 min",
+              ""
+            ],
+            [
+              40630.0,
+              "Clark/Division",
+              "11 min",
+              ""
+            ],
+            [
+              41450.0,
+              "Chicago",
+              "13 min",
+              ""
+            ],
+            [
+              40330.0,
+              "Grand",
+              "14 min",
+              ""
+            ],
+            [
+              41660.0,
+              "Lake",
+              "17 min",
+              ""
+            ],
+            [
+              41090.0,
+              "Monroe",
+              "18 min",
+              ""
+            ],
+            [
+              40560.0,
+              "Jackson",
+              "20 min",
+              ""
+            ],
+            [
+              41490.0,
+              "Harrison",
+              "21 min",
+              ""
+            ],
+            [
+              41400.0,
+              "Roosevelt",
+              "22 min",
+              ""
+            ],
+            [
+              41000.0,
+              "Cermak-Chinatown",
+              "25 min",
+              ""
+            ],
+            [
+              40190.0,
+              "Sox-35th",
+              "29 min",
+              ""
+            ],
+            [
+              41230.0,
+              "47th",
+              "32 min",
+              ""
+            ],
+            [
+              41170.0,
+              "Garfield",
+              "34 min",
+              ""
+            ],
+            [
+              40910.0,
+              "63rd",
+              "36 min",
+              ""
+            ],
+            [
+              40990.0,
+              "69th",
+              "38 min",
+              ""
+            ],
+            [
+              40240.0,
+              "79th",
+              "41 min",
+              ""
+            ],
+            [
+              41430.0,
+              "87th",
+              "43 min",
+              ""
+            ],
+            [
+              40450.0,
+              "95th/Dan Ryan",
+              "45 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.92416,
+            "Lng": -87.65284
+          },
+          "RunNumber": "921",
+          "CurrentStationId": "81478",
+          "ExitStationId": "81780",
+          "Direction": 1.60259620479231,
+          "LineName": "Red",
+          "DirMod": "to",
+          "DestName": "Howard",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_red",
+          "Predictions": [
+            [
+              41220.0,
+              "Fullerton",
+              "Due",
+              ""
+            ],
+            [
+              41320.0,
+              "Belmont",
+              "4 min",
+              ""
+            ],
+            [
+              41420.0,
+              "Addison",
+              "7 min",
+              ""
+            ],
+            [
+              40080.0,
+              "Sheridan",
+              "10 min",
+              ""
+            ],
+            [
+              40540.0,
+              "Wilson",
+              "14 min",
+              ""
+            ],
+            [
+              41200.0,
+              "Argyle",
+              "16 min",
+              ""
+            ],
+            [
+              41380.0,
+              "Bryn Mawr",
+              "19 min",
+              ""
+            ],
+            [
+              40880.0,
+              "Thorndale",
+              "21 min",
+              ""
+            ],
+            [
+              40760.0,
+              "Granville",
+              "22 min",
+              ""
+            ],
+            [
+              41300.0,
+              "Loyola",
+              "24 min",
+              ""
+            ],
+            [
+              40100.0,
+              "Morse",
+              "25 min",
+              ""
+            ],
+            [
+              41190.0,
+              "Jarvis",
+              "27 min",
+              ""
+            ],
+            [
+              40900.0,
+              "Howard",
+              "31 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.88074,
+            "Lng": -87.6277
+          },
+          "RunNumber": "922",
+          "CurrentStationId": "81300",
+          "ExitStationId": "81780",
+          "Direction": 1.59180815215741,
+          "LineName": "Red",
+          "DirMod": "to",
+          "DestName": "Howard",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_red",
+          "Predictions": [
+            [
+              41660.0,
+              "Lake",
+              "Due",
+              ""
+            ],
+            [
+              40330.0,
+              "Grand",
+              "3 min",
+              ""
+            ],
+            [
+              41450.0,
+              "Chicago",
+              "5 min",
+              ""
+            ],
+            [
+              40630.0,
+              "Clark/Division",
+              "9 min",
+              ""
+            ],
+            [
+              40650.0,
+              "North/Clybourn",
+              "12 min",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "16 min",
+              ""
+            ],
+            [
+              41320.0,
+              "Belmont",
+              "19 min",
+              ""
+            ],
+            [
+              41420.0,
+              "Addison",
+              "23 min",
+              ""
+            ],
+            [
+              40080.0,
+              "Sheridan",
+              "26 min",
+              ""
+            ],
+            [
+              40540.0,
+              "Wilson",
+              "29 min",
+              ""
+            ],
+            [
+              41200.0,
+              "Argyle",
+              "31 min",
+              ""
+            ],
+            [
+              41380.0,
+              "Bryn Mawr",
+              "35 min",
+              ""
+            ],
+            [
+              40880.0,
+              "Thorndale",
+              "36 min",
+              ""
+            ],
+            [
+              40760.0,
+              "Granville",
+              "38 min",
+              ""
+            ],
+            [
+              41300.0,
+              "Loyola",
+              "40 min",
+              ""
+            ],
+            [
+              40100.0,
+              "Morse",
+              "41 min",
+              ""
+            ],
+            [
+              41190.0,
+              "Jarvis",
+              "43 min",
+              ""
+            ],
+            [
+              40900.0,
+              "Howard",
+              "47 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.86417,
+            "Lng": -87.62731
+          },
+          "RunNumber": "923",
+          "CurrentStationId": "81235",
+          "ExitStationId": "81780",
+          "Direction": 1.60016949970005,
+          "LineName": "Red",
+          "DirMod": "to",
+          "DestName": "Howard",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_red",
+          "Predictions": [
+            [
+              41400.0,
+              "Roosevelt",
+              "Due",
+              ""
+            ],
+            [
+              41490.0,
+              "Harrison",
+              "2 min",
+              ""
+            ],
+            [
+              40560.0,
+              "Jackson",
+              "3 min",
+              ""
+            ],
+            [
+              41090.0,
+              "Monroe",
+              "4 min",
+              ""
+            ],
+            [
+              41660.0,
+              "Lake",
+              "6 min",
+              ""
+            ],
+            [
+              40330.0,
+              "Grand",
+              "8 min",
+              ""
+            ],
+            [
+              41450.0,
+              "Chicago",
+              "10 min",
+              ""
+            ],
+            [
+              40630.0,
+              "Clark/Division",
+              "14 min",
+              ""
+            ],
+            [
+              40650.0,
+              "North/Clybourn",
+              "17 min",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "20 min",
+              ""
+            ],
+            [
+              41320.0,
+              "Belmont",
+              "24 min",
+              ""
+            ],
+            [
+              41420.0,
+              "Addison",
+              "28 min",
+              ""
+            ],
+            [
+              40080.0,
+              "Sheridan",
+              "31 min",
+              ""
+            ],
+            [
+              40540.0,
+              "Wilson",
+              "34 min",
+              ""
+            ],
+            [
+              41200.0,
+              "Argyle",
+              "36 min",
+              ""
+            ],
+            [
+              41380.0,
+              "Bryn Mawr",
+              "40 min",
+              ""
+            ],
+            [
+              40880.0,
+              "Thorndale",
+              "41 min",
+              ""
+            ],
+            [
+              40760.0,
+              "Granville",
+              "42 min",
+              ""
+            ],
+            [
+              41300.0,
+              "Loyola",
+              "44 min",
+              ""
+            ],
+            [
+              40100.0,
+              "Morse",
+              "46 min",
+              ""
+            ],
+            [
+              41190.0,
+              "Jarvis",
+              "47 min",
+              ""
+            ],
+            [
+              40900.0,
+              "Howard",
+              "52 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        }
+      ]
+    },
+    {
+      "Line": "P",
+      "Markers": [
+        {
+          "Position": {
+            "Lat": 42.05828,
+            "Lng": -87.68334
+          },
+          "RunNumber": "508",
+          "CurrentStationId": "71420",
+          "ExitStationId": "71460",
+          "Direction": 1.58258102783508,
+          "LineName": "Pur",
+          "DirMod": "to",
+          "DestName": "Linden",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_purple",
+          "Predictions": [
+            [
+              41250.0,
+              "Central",
+              "2 min",
+              ""
+            ],
+            [
+              41050.0,
+              "Linden",
+              "3 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.96427,
+            "Lng": -87.65759
+          },
+          "RunNumber": "509",
+          "CurrentStationId": "81580",
+          "ExitStationId": "71460",
+          "Direction": 1.84426784027237,
+          "LineName": "Pur",
+          "DirMod": "to",
+          "DestName": "Linden",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_purple",
+          "Predictions": [
+            [
+              40900.0,
+              "Howard",
+              "11 min",
+              ""
+            ],
+            [
+              40840.0,
+              "South Boulevard",
+              "12 min",
+              ""
+            ],
+            [
+              40270.0,
+              "Main",
+              "13 min",
+              ""
+            ],
+            [
+              40690.0,
+              "Dempster",
+              "15 min",
+              ""
+            ],
+            [
+              40050.0,
+              "Davis",
+              "16 min",
+              ""
+            ],
+            [
+              40520.0,
+              "Foster",
+              "18 min",
+              ""
+            ],
+            [
+              40400.0,
+              "Noyes",
+              "20 min",
+              ""
+            ],
+            [
+              41250.0,
+              "Central",
+              "21 min",
+              ""
+            ],
+            [
+              41050.0,
+              "Linden",
+              "23 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.93276,
+            "Lng": -87.65313
+          },
+          "RunNumber": "510",
+          "CurrentStationId": "31440",
+          "ExitStationId": "71460",
+          "Direction": 1.58753670335399,
+          "LineName": "Pur",
+          "DirMod": "to",
+          "DestName": "Linden",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_purple",
+          "Predictions": [
+            [
+              41210.0,
+              "Wellington",
+              "2 min",
+              ""
+            ],
+            [
+              41320.0,
+              "Belmont",
+              "2 min",
+              ""
+            ],
+            [
+              40540.0,
+              "Wilson",
+              "12 min",
+              ""
+            ],
+            [
+              40900.0,
+              "Howard",
+              "24 min",
+              ""
+            ],
+            [
+              40840.0,
+              "South Boulevard",
+              "25 min",
+              ""
+            ],
+            [
+              40270.0,
+              "Main",
+              "26 min",
+              ""
+            ],
+            [
+              40690.0,
+              "Dempster",
+              "28 min",
+              ""
+            ],
+            [
+              40050.0,
+              "Davis",
+              "29 min",
+              ""
+            ],
+            [
+              40520.0,
+              "Foster",
+              "31 min",
+              ""
+            ],
+            [
+              40400.0,
+              "Noyes",
+              "32 min",
+              ""
+            ],
+            [
+              41250.0,
+              "Central",
+              "34 min",
+              ""
+            ],
+            [
+              41050.0,
+              "Linden",
+              "36 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.89678,
+            "Lng": -87.63595
+          },
+          "RunNumber": "511",
+          "CurrentStationId": "31360",
+          "ExitStationId": "71460",
+          "Direction": 2.49211863699789,
+          "LineName": "Pur",
+          "DirMod": "to",
+          "DestName": "Linden",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_purple",
+          "Predictions": [
+            [
+              40800.0,
+              "Sedgwick",
+              "4 min",
+              ""
+            ],
+            [
+              40660.0,
+              "Armitage",
+              "8 min",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "10 min",
+              ""
+            ],
+            [
+              40530.0,
+              "Diversey",
+              "12 min",
+              ""
+            ],
+            [
+              41210.0,
+              "Wellington",
+              "14 min",
+              ""
+            ],
+            [
+              41320.0,
+              "Belmont",
+              "15 min",
+              ""
+            ],
+            [
+              40540.0,
+              "Wilson",
+              "25 min",
+              ""
+            ],
+            [
+              40900.0,
+              "Howard",
+              "37 min",
+              ""
+            ],
+            [
+              40840.0,
+              "South Boulevard",
+              "38 min",
+              ""
+            ],
+            [
+              40270.0,
+              "Main",
+              "39 min",
+              ""
+            ],
+            [
+              40690.0,
+              "Dempster",
+              "41 min",
+              ""
+            ],
+            [
+              40050.0,
+              "Davis",
+              "42 min",
+              ""
+            ],
+            [
+              40520.0,
+              "Foster",
+              "44 min",
+              ""
+            ],
+            [
+              40400.0,
+              "Noyes",
+              "45 min",
+              ""
+            ],
+            [
+              41250.0,
+              "Central",
+              "47 min",
+              ""
+            ],
+            [
+              41050.0,
+              "Linden",
+              "49 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.88202,
+            "Lng": -87.62616
+          },
+          "RunNumber": "512",
+          "CurrentStationId": "55240",
+          "ExitStationId": "71460",
+          "Direction": 4.73550164195905,
+          "LineName": "Pur",
+          "DirMod": "to",
+          "DestName": "Linden",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_purple",
+          "Predictions": [
+            [
+              40680.0,
+              "Adams/Wabash",
+              "Due",
+              ""
+            ],
+            [
+              40850.0,
+              "Harold Washington Library-State/Van Buren",
+              "3 min",
+              ""
+            ],
+            [
+              40160.0,
+              "LaSalle/Van Buren",
+              "4 min",
+              ""
+            ],
+            [
+              40040.0,
+              "Quincy",
+              "5 min",
+              ""
+            ],
+            [
+              40730.0,
+              "Washington/Wells",
+              "7 min",
+              ""
+            ],
+            [
+              40460.0,
+              "Merchandise Mart",
+              "9 min",
+              ""
+            ],
+            [
+              40710.0,
+              "Chicago",
+              "12 min",
+              ""
+            ],
+            [
+              40800.0,
+              "Sedgwick",
+              "16 min",
+              ""
+            ],
+            [
+              40660.0,
+              "Armitage",
+              "21 min",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "23 min",
+              ""
+            ],
+            [
+              40530.0,
+              "Diversey",
+              "25 min",
+              ""
+            ],
+            [
+              41210.0,
+              "Wellington",
+              "27 min",
+              ""
+            ],
+            [
+              41320.0,
+              "Belmont",
+              "28 min",
+              ""
+            ],
+            [
+              40540.0,
+              "Wilson",
+              "38 min",
+              ""
+            ],
+            [
+              40840.0,
+              "South Boulevard",
+              "50 min",
+              ""
+            ],
+            [
+              40900.0,
+              "Howard",
+              "50 min",
+              ""
+            ],
+            [
+              40270.0,
+              "Main",
+              "52 min",
+              ""
+            ],
+            [
+              40690.0,
+              "Dempster",
+              "53 min",
+              ""
+            ],
+            [
+              40050.0,
+              "Davis",
+              "55 min",
+              ""
+            ],
+            [
+              40520.0,
+              "Foster",
+              "57 min",
+              ""
+            ],
+            [
+              40400.0,
+              "Noyes",
+              "58 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 42.01906,
+            "Lng": -87.67289
+          },
+          "RunNumber": "513",
+          "CurrentStationId": "75200",
+          "ExitStationId": "71460",
+          "Direction": 5.5943164433317,
+          "LineName": "Pur",
+          "DirMod": "to",
+          "DestName": "See train",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_purple",
+          "Predictions": [
+            [
+              40540.0,
+              "Wilson",
+              "9 min",
+              ""
+            ],
+            [
+              41320.0,
+              "Belmont",
+              "18 min",
+              ""
+            ],
+            [
+              41210.0,
+              "Wellington",
+              "20 min",
+              ""
+            ],
+            [
+              40530.0,
+              "Diversey",
+              "21 min",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "23 min",
+              ""
+            ],
+            [
+              40660.0,
+              "Armitage",
+              "25 min",
+              ""
+            ],
+            [
+              40800.0,
+              "Sedgwick",
+              "29 min",
+              ""
+            ],
+            [
+              40710.0,
+              "Chicago",
+              "33 min",
+              ""
+            ],
+            [
+              40460.0,
+              "Merchandise Mart",
+              "35 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "37 min",
+              ""
+            ],
+            [
+              40260.0,
+              "State/Lake",
+              "39 min",
+              ""
+            ],
+            [
+              41700.0,
+              "Washington/Wabash",
+              "41 min",
+              ""
+            ],
+            [
+              40680.0,
+              "Adams/Wabash",
+              "42 min",
+              ""
+            ],
+            [
+              40850.0,
+              "Harold Washington Library-State/Van Buren",
+              "44 min",
+              ""
+            ],
+            [
+              40160.0,
+              "LaSalle/Van Buren",
+              "45 min",
+              ""
+            ],
+            [
+              40040.0,
+              "Quincy",
+              "47 min",
+              ""
+            ],
+            [
+              40730.0,
+              "Washington/Wells",
+              "48 min",
+              ""
+            ],
+            [
+              40460.0,
+              "Merchandise Mart",
+              "51 min",
+              ""
+            ],
+            [
+              40710.0,
+              "Chicago",
+              "54 min",
+              ""
+            ],
+            [
+              40800.0,
+              "Sedgwick",
+              "58 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.91469,
+            "Lng": -87.65252
+          },
+          "RunNumber": "515",
+          "CurrentStationId": "35365",
+          "ExitStationId": "71460",
+          "Direction": 4.74297344426278,
+          "LineName": "Pur",
+          "DirMod": "to",
+          "DestName": "Loop",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_purple",
+          "Predictions": [
+            [
+              40800.0,
+              "Sedgwick",
+              "2 min",
+              ""
+            ],
+            [
+              40710.0,
+              "Chicago",
+              "6 min",
+              ""
+            ],
+            [
+              40460.0,
+              "Merchandise Mart",
+              "8 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "10 min",
+              ""
+            ],
+            [
+              40260.0,
+              "State/Lake",
+              "12 min",
+              ""
+            ],
+            [
+              41700.0,
+              "Washington/Wabash",
+              "14 min",
+              ""
+            ],
+            [
+              40680.0,
+              "Adams/Wabash",
+              "15 min",
+              ""
+            ],
+            [
+              40850.0,
+              "Harold Washington Library-State/Van Buren",
+              "17 min",
+              ""
+            ],
+            [
+              40160.0,
+              "LaSalle/Van Buren",
+              "18 min",
+              ""
+            ],
+            [
+              40040.0,
+              "Quincy",
+              "20 min",
+              ""
+            ],
+            [
+              40730.0,
+              "Washington/Wells",
+              "21 min",
+              ""
+            ],
+            [
+              40460.0,
+              "Merchandise Mart",
+              "24 min",
+              ""
+            ],
+            [
+              40710.0,
+              "Chicago",
+              "27 min",
+              ""
+            ],
+            [
+              40800.0,
+              "Sedgwick",
+              "31 min",
+              ""
+            ],
+            [
+              40660.0,
+              "Armitage",
+              "35 min",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "38 min",
+              ""
+            ],
+            [
+              40530.0,
+              "Diversey",
+              "40 min",
+              ""
+            ],
+            [
+              41210.0,
+              "Wellington",
+              "41 min",
+              ""
+            ],
+            [
+              41320.0,
+              "Belmont",
+              "43 min",
+              ""
+            ],
+            [
+              40540.0,
+              "Wilson",
+              "53 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 42.01854,
+            "Lng": -87.67226
+          },
+          "RunNumber": "516",
+          "CurrentStationId": "71280",
+          "ExitStationId": "71460",
+          "Direction": 2.45271800491284,
+          "LineName": "Pur",
+          "DirMod": "to",
+          "DestName": "Linden",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_purple",
+          "Predictions": [
+            [
+              40840.0,
+              "South Boulevard",
+              "Due",
+              ""
+            ],
+            [
+              40900.0,
+              "Howard",
+              "Due",
+              ""
+            ],
+            [
+              40270.0,
+              "Main",
+              "2 min",
+              ""
+            ],
+            [
+              40690.0,
+              "Dempster",
+              "3 min",
+              ""
+            ],
+            [
+              40050.0,
+              "Davis",
+              "5 min",
+              ""
+            ],
+            [
+              40520.0,
+              "Foster",
+              "7 min",
+              ""
+            ],
+            [
+              40400.0,
+              "Noyes",
+              "8 min",
+              ""
+            ],
+            [
+              41250.0,
+              "Central",
+              "10 min",
+              ""
+            ],
+            [
+              41050.0,
+              "Linden",
+              "12 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        }
+      ]
+    },
+    {
+      "Line": "Y",
+      "Markers": [
+        {
+          "Position": {
+            "Lat": 0.0,
+            "Lng": 0.0
+          },
+          "RunNumber": "593",
+          "CurrentStationId": "95060",
+          "ExitStationId": "95090",
+          "Direction": 0.0,
+          "LineName": "Yel",
+          "DirMod": "to",
+          "DestName": "Howard",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_yellow",
+          "Predictions": [
+            [
+              40900.0,
+              "Howard",
+              "5 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 42.02234,
+            "Lng": -87.72884
+          },
+          "RunNumber": "595",
+          "CurrentStationId": "91038",
+          "ExitStationId": "95090",
+          "Direction": 3.14226897567584,
+          "LineName": "Yel",
+          "DirMod": "to",
+          "DestName": "Skokie",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_yellow",
+          "Predictions": [
+            [
+              41680.0,
+              "Oakton-Skokie",
+              "2 min",
+              ""
+            ],
+            [
+              40140.0,
+              "Dempster-Skokie",
+              "4 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        }
+      ]
+    },
+    {
+      "Line": "B",
+      "Markers": [
+        {
+          "Position": {
+            "Lat": 41.93294,
+            "Lng": -87.71221
+          },
+          "RunNumber": "113",
+          "CurrentStationId": "11510",
+          "ExitStationId": "11700",
+          "Direction": 1.59362938758158,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "O'Hare ",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blue",
+          "Predictions": [
+            [
+              40060.0,
+              "Belmont",
+              "Due",
+              ""
+            ],
+            [
+              41240.0,
+              "Addison",
+              "3 min",
+              ""
+            ],
+            [
+              40550.0,
+              "Irving Park",
+              "5 min",
+              ""
+            ],
+            [
+              41330.0,
+              "Montrose",
+              "8 min",
+              ""
+            ],
+            [
+              41280.0,
+              "Jefferson Park",
+              "11 min",
+              ""
+            ],
+            [
+              40750.0,
+              "Harlem (O'Hare Branch)",
+              "16 min",
+              ""
+            ],
+            [
+              40230.0,
+              "Cumberland",
+              "18 min",
+              ""
+            ],
+            [
+              40820.0,
+              "Rosemont",
+              "21 min",
+              ""
+            ],
+            [
+              40890.0,
+              "O'Hare",
+              "27 min",
+              ""
+            ]
+          ],
+          "Flags": "D"
+        },
+        {
+          "Position": {
+            "Lat": 41.87089,
+            "Lng": -87.77681
+          },
+          "RunNumber": "115",
+          "CurrentStationId": "11080",
+          "ExitStationId": "11700",
+          "Direction": 6.22110833168708,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "O'Hare ",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blue",
+          "Predictions": [
+            [
+              40970.0,
+              "Cicero",
+              "5 min",
+              ""
+            ],
+            [
+              40920.0,
+              "Pulaski",
+              "8 min",
+              ""
+            ],
+            [
+              40250.0,
+              "Kedzie-Homan",
+              "11 min",
+              ""
+            ],
+            [
+              40220.0,
+              "Western (Forest Park Branch)",
+              "15 min",
+              ""
+            ],
+            [
+              40810.0,
+              "Illinois Medical District",
+              "17 min",
+              ""
+            ],
+            [
+              40470.0,
+              "Racine",
+              "19 min",
+              ""
+            ],
+            [
+              40350.0,
+              "UIC-Halsted",
+              "21 min",
+              ""
+            ],
+            [
+              40430.0,
+              "Clinton",
+              "23 min",
+              ""
+            ],
+            [
+              41340.0,
+              "LaSalle",
+              "24 min",
+              ""
+            ],
+            [
+              40070.0,
+              "Jackson",
+              "26 min",
+              ""
+            ],
+            [
+              40790.0,
+              "Monroe",
+              "27 min",
+              ""
+            ],
+            [
+              40370.0,
+              "Washington",
+              "28 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "30 min",
+              ""
+            ],
+            [
+              40490.0,
+              "Grand",
+              "34 min",
+              ""
+            ],
+            [
+              41410.0,
+              "Chicago",
+              "36 min",
+              ""
+            ],
+            [
+              40320.0,
+              "Division",
+              "38 min",
+              ""
+            ],
+            [
+              40590.0,
+              "Damen",
+              "41 min",
+              ""
+            ],
+            [
+              40670.0,
+              "Western (O'Hare Branch)",
+              "42 min",
+              ""
+            ],
+            [
+              40570.0,
+              "California",
+              "44 min",
+              ""
+            ],
+            [
+              41020.0,
+              "Logan Square",
+              "46 min",
+              ""
+            ],
+            [
+              40060.0,
+              "Belmont",
+              "48 min",
+              ""
+            ],
+            [
+              41240.0,
+              "Addison",
+              "51 min",
+              ""
+            ],
+            [
+              40550.0,
+              "Irving Park",
+              "53 min",
+              ""
+            ],
+            [
+              41330.0,
+              "Montrose",
+              "56 min",
+              ""
+            ],
+            [
+              41280.0,
+              "Jefferson Park",
+              "59 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.87389,
+            "Lng": -87.72566
+          },
+          "RunNumber": "117",
+          "CurrentStationId": "15600",
+          "ExitStationId": "15705",
+          "Direction": 3.15103000178162,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "Forest Park",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blue",
+          "Predictions": [
+            [
+              40970.0,
+              "Cicero",
+              "3 min",
+              ""
+            ],
+            [
+              40010.0,
+              "Austin",
+              "9 min",
+              ""
+            ],
+            [
+              40180.0,
+              "Oak Park",
+              "12 min",
+              ""
+            ],
+            [
+              40980.0,
+              "Harlem (Forest Park Branch)",
+              "15 min",
+              ""
+            ],
+            [
+              40390.0,
+              "Forest Park",
+              "17 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.98248,
+            "Lng": -87.78814
+          },
+          "RunNumber": "118",
+          "CurrentStationId": "11613",
+          "ExitStationId": "11700",
+          "Direction": 3.14776401219011,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "O'Hare ",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blue",
+          "Predictions": [
+            [
+              40750.0,
+              "Harlem (O'Hare Branch)",
+              "Due",
+              ""
+            ],
+            [
+              40230.0,
+              "Cumberland",
+              "3 min",
+              ""
+            ],
+            [
+              40820.0,
+              "Rosemont",
+              "6 min",
+              ""
+            ],
+            [
+              40890.0,
+              "O'Hare",
+              "12 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.98429,
+            "Lng": -87.83803
+          },
+          "RunNumber": "119",
+          "CurrentStationId": "15080",
+          "ExitStationId": "15705",
+          "Direction": 0.0477625442781604,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "Forest Park",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blue",
+          "Predictions": [
+            [
+              40750.0,
+              "Harlem (O'Hare Branch)",
+              "2 min",
+              ""
+            ],
+            [
+              41280.0,
+              "Jefferson Park",
+              "7 min",
+              ""
+            ],
+            [
+              41330.0,
+              "Montrose",
+              "10 min",
+              ""
+            ],
+            [
+              40550.0,
+              "Irving Park",
+              "13 min",
+              ""
+            ],
+            [
+              41240.0,
+              "Addison",
+              "14 min",
+              ""
+            ],
+            [
+              40060.0,
+              "Belmont",
+              "16 min",
+              ""
+            ],
+            [
+              41020.0,
+              "Logan Square",
+              "19 min",
+              ""
+            ],
+            [
+              40570.0,
+              "California",
+              "22 min",
+              ""
+            ],
+            [
+              40670.0,
+              "Western (O'Hare Branch)",
+              "24 min",
+              ""
+            ],
+            [
+              40590.0,
+              "Damen",
+              "26 min",
+              ""
+            ],
+            [
+              40320.0,
+              "Division",
+              "29 min",
+              ""
+            ],
+            [
+              41410.0,
+              "Chicago",
+              "30 min",
+              ""
+            ],
+            [
+              40490.0,
+              "Grand",
+              "32 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "36 min",
+              ""
+            ],
+            [
+              40370.0,
+              "Washington",
+              "37 min",
+              ""
+            ],
+            [
+              40790.0,
+              "Monroe",
+              "39 min",
+              ""
+            ],
+            [
+              40070.0,
+              "Jackson",
+              "40 min",
+              ""
+            ],
+            [
+              41340.0,
+              "LaSalle",
+              "41 min",
+              ""
+            ],
+            [
+              40430.0,
+              "Clinton",
+              "42 min",
+              ""
+            ],
+            [
+              40350.0,
+              "UIC-Halsted",
+              "44 min",
+              ""
+            ],
+            [
+              40470.0,
+              "Racine",
+              "46 min",
+              ""
+            ],
+            [
+              40810.0,
+              "Illinois Medical District",
+              "49 min",
+              ""
+            ],
+            [
+              40220.0,
+              "Western (Forest Park Branch)",
+              "52 min",
+              ""
+            ],
+            [
+              40250.0,
+              "Kedzie-Homan",
+              "55 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.90974,
+            "Lng": -87.67744
+          },
+          "RunNumber": "120",
+          "CurrentStationId": "11440",
+          "ExitStationId": "11700",
+          "Direction": 2.57395499752909,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "O'Hare ",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blue",
+          "Predictions": [
+            [
+              40670.0,
+              "Western (O'Hare Branch)",
+              "2 min",
+              ""
+            ],
+            [
+              40570.0,
+              "California",
+              "3 min",
+              ""
+            ],
+            [
+              41020.0,
+              "Logan Square",
+              "5 min",
+              ""
+            ],
+            [
+              40060.0,
+              "Belmont",
+              "7 min",
+              ""
+            ],
+            [
+              41240.0,
+              "Addison",
+              "10 min",
+              ""
+            ],
+            [
+              40550.0,
+              "Irving Park",
+              "12 min",
+              ""
+            ],
+            [
+              41330.0,
+              "Montrose",
+              "15 min",
+              ""
+            ],
+            [
+              41280.0,
+              "Jefferson Park",
+              "18 min",
+              ""
+            ],
+            [
+              40750.0,
+              "Harlem (O'Hare Branch)",
+              "23 min",
+              ""
+            ],
+            [
+              40230.0,
+              "Cumberland",
+              "26 min",
+              ""
+            ],
+            [
+              40820.0,
+              "Rosemont",
+              "29 min",
+              ""
+            ],
+            [
+              40890.0,
+              "O'Hare",
+              "34 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.97714,
+            "Lng": -87.89023
+          },
+          "RunNumber": "121",
+          "CurrentStationId": "15030",
+          "ExitStationId": "15486",
+          "Direction": 6.09263822184107,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "UIC-Halsted",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blueinv",
+          "Predictions": [
+            [
+              40820.0,
+              "Rosemont",
+              "3 min",
+              ""
+            ],
+            [
+              40230.0,
+              "Cumberland",
+              "5 min",
+              ""
+            ],
+            [
+              40750.0,
+              "Harlem (O'Hare Branch)",
+              "8 min",
+              ""
+            ],
+            [
+              41280.0,
+              "Jefferson Park",
+              "13 min",
+              ""
+            ],
+            [
+              41330.0,
+              "Montrose",
+              "16 min",
+              ""
+            ],
+            [
+              40550.0,
+              "Irving Park",
+              "18 min",
+              ""
+            ],
+            [
+              41240.0,
+              "Addison",
+              "20 min",
+              ""
+            ],
+            [
+              40060.0,
+              "Belmont",
+              "22 min",
+              ""
+            ],
+            [
+              41020.0,
+              "Logan Square",
+              "24 min",
+              ""
+            ],
+            [
+              40570.0,
+              "California",
+              "28 min",
+              ""
+            ],
+            [
+              40670.0,
+              "Western (O'Hare Branch)",
+              "29 min",
+              ""
+            ],
+            [
+              40590.0,
+              "Damen",
+              "32 min",
+              ""
+            ],
+            [
+              40320.0,
+              "Division",
+              "34 min",
+              ""
+            ],
+            [
+              41410.0,
+              "Chicago",
+              "36 min",
+              ""
+            ],
+            [
+              40490.0,
+              "Grand",
+              "38 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "41 min",
+              ""
+            ],
+            [
+              40370.0,
+              "Washington",
+              "43 min",
+              ""
+            ],
+            [
+              40790.0,
+              "Monroe",
+              "44 min",
+              ""
+            ],
+            [
+              40070.0,
+              "Jackson",
+              "45 min",
+              ""
+            ],
+            [
+              41340.0,
+              "LaSalle",
+              "47 min",
+              ""
+            ],
+            [
+              40430.0,
+              "Clinton",
+              "48 min",
+              ""
+            ],
+            [
+              40350.0,
+              "UIC-Halsted",
+              "49 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.92528,
+            "Lng": -87.70238
+          },
+          "RunNumber": "122",
+          "CurrentStationId": "15226",
+          "ExitStationId": "15705",
+          "Direction": 5.72290700765489,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "Forest Park",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blue",
+          "Predictions": [
+            [
+              40570.0,
+              "California",
+              "2 min",
+              ""
+            ],
+            [
+              40670.0,
+              "Western (O'Hare Branch)",
+              "3 min",
+              ""
+            ],
+            [
+              40590.0,
+              "Damen",
+              "6 min",
+              ""
+            ],
+            [
+              40320.0,
+              "Division",
+              "8 min",
+              ""
+            ],
+            [
+              41410.0,
+              "Chicago",
+              "10 min",
+              ""
+            ],
+            [
+              40490.0,
+              "Grand",
+              "12 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "15 min",
+              ""
+            ],
+            [
+              40370.0,
+              "Washington",
+              "17 min",
+              ""
+            ],
+            [
+              40790.0,
+              "Monroe",
+              "18 min",
+              ""
+            ],
+            [
+              40070.0,
+              "Jackson",
+              "19 min",
+              ""
+            ],
+            [
+              41340.0,
+              "LaSalle",
+              "21 min",
+              ""
+            ],
+            [
+              40430.0,
+              "Clinton",
+              "22 min",
+              ""
+            ],
+            [
+              40350.0,
+              "UIC-Halsted",
+              "23 min",
+              ""
+            ],
+            [
+              40470.0,
+              "Racine",
+              "25 min",
+              ""
+            ],
+            [
+              40810.0,
+              "Illinois Medical District",
+              "28 min",
+              ""
+            ],
+            [
+              40220.0,
+              "Western (Forest Park Branch)",
+              "31 min",
+              ""
+            ],
+            [
+              40250.0,
+              "Kedzie-Homan",
+              "35 min",
+              ""
+            ],
+            [
+              40920.0,
+              "Pulaski",
+              "39 min",
+              ""
+            ],
+            [
+              40970.0,
+              "Cicero",
+              "43 min",
+              ""
+            ],
+            [
+              40010.0,
+              "Austin",
+              "49 min",
+              ""
+            ],
+            [
+              40180.0,
+              "Oak Park",
+              "52 min",
+              ""
+            ],
+            [
+              40980.0,
+              "Harlem (Forest Park Branch)",
+              "55 min",
+              ""
+            ],
+            [
+              40390.0,
+              "Forest Park",
+              "56 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.91906,
+            "Lng": -87.69212
+          },
+          "RunNumber": "124",
+          "CurrentStationId": "11474",
+          "ExitStationId": "11700",
+          "Direction": 2.59826734701689,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "O'Hare ",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blue",
+          "Predictions": [
+            [
+              40570.0,
+              "California",
+              "Due",
+              ""
+            ],
+            [
+              41020.0,
+              "Logan Square",
+              "2 min",
+              ""
+            ],
+            [
+              40060.0,
+              "Belmont",
+              "5 min",
+              ""
+            ],
+            [
+              41240.0,
+              "Addison",
+              "7 min",
+              ""
+            ],
+            [
+              40550.0,
+              "Irving Park",
+              "9 min",
+              ""
+            ],
+            [
+              41330.0,
+              "Montrose",
+              "12 min",
+              ""
+            ],
+            [
+              41280.0,
+              "Jefferson Park",
+              "15 min",
+              ""
+            ],
+            [
+              40750.0,
+              "Harlem (O'Hare Branch)",
+              "20 min",
+              ""
+            ],
+            [
+              40230.0,
+              "Cumberland",
+              "23 min",
+              ""
+            ],
+            [
+              40820.0,
+              "Rosemont",
+              "26 min",
+              ""
+            ],
+            [
+              40890.0,
+              "O'Hare",
+              "31 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.87551,
+            "Lng": -87.64971
+          },
+          "RunNumber": "125",
+          "CurrentStationId": "15480",
+          "ExitStationId": "15705",
+          "Direction": 3.19326550674548,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "Forest Park",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blue",
+          "Predictions": [
+            [
+              40470.0,
+              "Racine",
+              "2 min",
+              ""
+            ],
+            [
+              40810.0,
+              "Illinois Medical District",
+              "4 min",
+              ""
+            ],
+            [
+              40220.0,
+              "Western (Forest Park Branch)",
+              "8 min",
+              ""
+            ],
+            [
+              40250.0,
+              "Kedzie-Homan",
+              "11 min",
+              ""
+            ],
+            [
+              40920.0,
+              "Pulaski",
+              "16 min",
+              ""
+            ],
+            [
+              40970.0,
+              "Cicero",
+              "19 min",
+              ""
+            ],
+            [
+              40010.0,
+              "Austin",
+              "26 min",
+              ""
+            ],
+            [
+              40180.0,
+              "Oak Park",
+              "28 min",
+              ""
+            ],
+            [
+              40980.0,
+              "Harlem (Forest Park Branch)",
+              "31 min",
+              ""
+            ],
+            [
+              40390.0,
+              "Forest Park",
+              "33 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.87587,
+            "Lng": -87.66009
+          },
+          "RunNumber": "210",
+          "CurrentStationId": "15501",
+          "ExitStationId": "15705",
+          "Direction": 3.16138484054321,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "Forest Park",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blue",
+          "Predictions": [
+            [
+              40810.0,
+              "Illinois Medical District",
+              "2 min",
+              ""
+            ],
+            [
+              40220.0,
+              "Western (Forest Park Branch)",
+              "4 min",
+              ""
+            ],
+            [
+              40250.0,
+              "Kedzie-Homan",
+              "8 min",
+              ""
+            ],
+            [
+              40920.0,
+              "Pulaski",
+              "13 min",
+              ""
+            ],
+            [
+              40970.0,
+              "Cicero",
+              "16 min",
+              ""
+            ],
+            [
+              40010.0,
+              "Austin",
+              "22 min",
+              ""
+            ],
+            [
+              40180.0,
+              "Oak Park",
+              "25 min",
+              ""
+            ],
+            [
+              40980.0,
+              "Harlem (Forest Park Branch)",
+              "28 min",
+              ""
+            ],
+            [
+              40390.0,
+              "Forest Park",
+              "30 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.87818,
+            "Lng": -87.6293
+          },
+          "RunNumber": "211",
+          "CurrentStationId": "15420",
+          "ExitStationId": "15705",
+          "Direction": 4.7452410066926,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "Forest Park",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blue",
+          "Predictions": [
+            [
+              40430.0,
+              "Clinton",
+              "2 min",
+              ""
+            ],
+            [
+              41340.0,
+              "LaSalle",
+              "2 min",
+              ""
+            ],
+            [
+              40350.0,
+              "UIC-Halsted",
+              "4 min",
+              ""
+            ],
+            [
+              40470.0,
+              "Racine",
+              "6 min",
+              ""
+            ],
+            [
+              40810.0,
+              "Illinois Medical District",
+              "9 min",
+              ""
+            ],
+            [
+              40220.0,
+              "Western (Forest Park Branch)",
+              "12 min",
+              ""
+            ],
+            [
+              40250.0,
+              "Kedzie-Homan",
+              "15 min",
+              ""
+            ],
+            [
+              40920.0,
+              "Pulaski",
+              "20 min",
+              ""
+            ],
+            [
+              40970.0,
+              "Cicero",
+              "23 min",
+              ""
+            ],
+            [
+              40010.0,
+              "Austin",
+              "30 min",
+              ""
+            ],
+            [
+              40180.0,
+              "Oak Park",
+              "32 min",
+              ""
+            ],
+            [
+              40980.0,
+              "Harlem (Forest Park Branch)",
+              "35 min",
+              ""
+            ],
+            [
+              40390.0,
+              "Forest Park",
+              "37 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.87557,
+            "Lng": -87.63172
+          },
+          "RunNumber": "213",
+          "CurrentStationId": "11280",
+          "ExitStationId": "11700",
+          "Direction": 0.0200042216603694,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "O'Hare ",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blue",
+          "Predictions": [
+            [
+              40070.0,
+              "Jackson",
+              "2 min",
+              ""
+            ],
+            [
+              40790.0,
+              "Monroe",
+              "2 min",
+              ""
+            ],
+            [
+              40370.0,
+              "Washington",
+              "3 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "5 min",
+              ""
+            ],
+            [
+              40490.0,
+              "Grand",
+              "9 min",
+              ""
+            ],
+            [
+              41410.0,
+              "Chicago",
+              "12 min",
+              ""
+            ],
+            [
+              40320.0,
+              "Division",
+              "14 min",
+              ""
+            ],
+            [
+              40590.0,
+              "Damen",
+              "16 min",
+              ""
+            ],
+            [
+              40670.0,
+              "Western (O'Hare Branch)",
+              "18 min",
+              ""
+            ],
+            [
+              40570.0,
+              "California",
+              "19 min",
+              ""
+            ],
+            [
+              41020.0,
+              "Logan Square",
+              "22 min",
+              ""
+            ],
+            [
+              40060.0,
+              "Belmont",
+              "24 min",
+              ""
+            ],
+            [
+              41240.0,
+              "Addison",
+              "26 min",
+              ""
+            ],
+            [
+              40550.0,
+              "Irving Park",
+              "28 min",
+              ""
+            ],
+            [
+              41330.0,
+              "Montrose",
+              "31 min",
+              ""
+            ],
+            [
+              41280.0,
+              "Jefferson Park",
+              "35 min",
+              ""
+            ],
+            [
+              40750.0,
+              "Harlem (O'Hare Branch)",
+              "39 min",
+              ""
+            ],
+            [
+              40230.0,
+              "Cumberland",
+              "42 min",
+              ""
+            ],
+            [
+              40820.0,
+              "Rosemont",
+              "45 min",
+              ""
+            ],
+            [
+              40890.0,
+              "O'Hare",
+              "50 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.97063,
+            "Lng": -87.76089
+          },
+          "RunNumber": "214",
+          "CurrentStationId": "15105",
+          "ExitStationId": "15486",
+          "Direction": 5.87842548729589,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "UIC-Halsted",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blueinv",
+          "Predictions": [
+            [
+              41280.0,
+              "Jefferson Park",
+              "3 min",
+              ""
+            ],
+            [
+              41330.0,
+              "Montrose",
+              "6 min",
+              ""
+            ],
+            [
+              40550.0,
+              "Irving Park",
+              "8 min",
+              ""
+            ],
+            [
+              41240.0,
+              "Addison",
+              "10 min",
+              ""
+            ],
+            [
+              40060.0,
+              "Belmont",
+              "12 min",
+              ""
+            ],
+            [
+              41020.0,
+              "Logan Square",
+              "15 min",
+              ""
+            ],
+            [
+              40570.0,
+              "California",
+              "18 min",
+              ""
+            ],
+            [
+              40670.0,
+              "Western (O'Hare Branch)",
+              "20 min",
+              ""
+            ],
+            [
+              40590.0,
+              "Damen",
+              "22 min",
+              ""
+            ],
+            [
+              40320.0,
+              "Division",
+              "24 min",
+              ""
+            ],
+            [
+              41410.0,
+              "Chicago",
+              "26 min",
+              ""
+            ],
+            [
+              40490.0,
+              "Grand",
+              "28 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "32 min",
+              ""
+            ],
+            [
+              40370.0,
+              "Washington",
+              "33 min",
+              ""
+            ],
+            [
+              40790.0,
+              "Monroe",
+              "34 min",
+              ""
+            ],
+            [
+              40070.0,
+              "Jackson",
+              "36 min",
+              ""
+            ],
+            [
+              41340.0,
+              "LaSalle",
+              "37 min",
+              ""
+            ],
+            [
+              40430.0,
+              "Clinton",
+              "38 min",
+              ""
+            ],
+            [
+              40350.0,
+              "UIC-Halsted",
+              "40 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.87211,
+            "Lng": -87.7916
+          },
+          "RunNumber": "215",
+          "CurrentStationId": "15660",
+          "ExitStationId": "15705",
+          "Direction": 3.05383700165835,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "Forest Park",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blue",
+          "Predictions": [
+            [
+              40980.0,
+              "Harlem (Forest Park Branch)",
+              "3 min",
+              ""
+            ],
+            [
+              40390.0,
+              "Forest Park",
+              "4 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.88574,
+            "Lng": -87.63089
+          },
+          "RunNumber": "217",
+          "CurrentStationId": "15360",
+          "ExitStationId": "15705",
+          "Direction": 0.000785454386934427,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "Forest Park",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blue",
+          "Predictions": [
+            [
+              40370.0,
+              "Washington",
+              "2 min",
+              ""
+            ],
+            [
+              40790.0,
+              "Monroe",
+              "2 min",
+              ""
+            ],
+            [
+              40070.0,
+              "Jackson",
+              "4 min",
+              ""
+            ],
+            [
+              41340.0,
+              "LaSalle",
+              "5 min",
+              ""
+            ],
+            [
+              40430.0,
+              "Clinton",
+              "6 min",
+              ""
+            ],
+            [
+              40350.0,
+              "UIC-Halsted",
+              "8 min",
+              ""
+            ],
+            [
+              40470.0,
+              "Racine",
+              "10 min",
+              ""
+            ],
+            [
+              40810.0,
+              "Illinois Medical District",
+              "13 min",
+              ""
+            ],
+            [
+              40220.0,
+              "Western (Forest Park Branch)",
+              "16 min",
+              ""
+            ],
+            [
+              40250.0,
+              "Kedzie-Homan",
+              "19 min",
+              ""
+            ],
+            [
+              40920.0,
+              "Pulaski",
+              "24 min",
+              ""
+            ],
+            [
+              40970.0,
+              "Cicero",
+              "27 min",
+              ""
+            ],
+            [
+              40010.0,
+              "Austin",
+              "34 min",
+              ""
+            ],
+            [
+              40180.0,
+              "Oak Park",
+              "36 min",
+              ""
+            ],
+            [
+              40980.0,
+              "Harlem (Forest Park Branch)",
+              "39 min",
+              ""
+            ],
+            [
+              40390.0,
+              "Forest Park",
+              "41 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.91973,
+            "Lng": -87.69322
+          },
+          "RunNumber": "218",
+          "CurrentStationId": "15246",
+          "ExitStationId": "15486",
+          "Direction": 5.73986000060668,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "UIC-Halsted",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blueinv",
+          "Predictions": [
+            [
+              40670.0,
+              "Western (O'Hare Branch)",
+              "Due",
+              ""
+            ],
+            [
+              40590.0,
+              "Damen",
+              "3 min",
+              ""
+            ],
+            [
+              40320.0,
+              "Division",
+              "5 min",
+              ""
+            ],
+            [
+              41410.0,
+              "Chicago",
+              "7 min",
+              ""
+            ],
+            [
+              40490.0,
+              "Grand",
+              "9 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "13 min",
+              ""
+            ],
+            [
+              40370.0,
+              "Washington",
+              "14 min",
+              ""
+            ],
+            [
+              40790.0,
+              "Monroe",
+              "16 min",
+              ""
+            ],
+            [
+              40070.0,
+              "Jackson",
+              "17 min",
+              ""
+            ],
+            [
+              41340.0,
+              "LaSalle",
+              "18 min",
+              ""
+            ],
+            [
+              40430.0,
+              "Clinton",
+              "19 min",
+              ""
+            ],
+            [
+              40350.0,
+              "UIC-Halsted",
+              "21 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.98399,
+            "Lng": -87.84443
+          },
+          "RunNumber": "220",
+          "CurrentStationId": "11648",
+          "ExitStationId": "11700",
+          "Direction": 3.17968825937121,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "O'Hare ",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blue",
+          "Predictions": [
+            [
+              40820.0,
+              "Rosemont",
+              "Due",
+              ""
+            ],
+            [
+              40890.0,
+              "O'Hare",
+              "7 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.89363,
+            "Lng": -87.65139
+          },
+          "RunNumber": "221",
+          "CurrentStationId": "11390",
+          "ExitStationId": "11700",
+          "Direction": 2.57111042300558,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "O'Hare ",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blue",
+          "Predictions": [
+            [
+              41410.0,
+              "Chicago",
+              "Due",
+              ""
+            ],
+            [
+              40320.0,
+              "Division",
+              "3 min",
+              ""
+            ],
+            [
+              40590.0,
+              "Damen",
+              "5 min",
+              ""
+            ],
+            [
+              40670.0,
+              "Western (O'Hare Branch)",
+              "7 min",
+              ""
+            ],
+            [
+              40570.0,
+              "California",
+              "8 min",
+              ""
+            ],
+            [
+              41020.0,
+              "Logan Square",
+              "11 min",
+              ""
+            ],
+            [
+              40060.0,
+              "Belmont",
+              "13 min",
+              ""
+            ],
+            [
+              41240.0,
+              "Addison",
+              "15 min",
+              ""
+            ],
+            [
+              40550.0,
+              "Irving Park",
+              "17 min",
+              ""
+            ],
+            [
+              41330.0,
+              "Montrose",
+              "20 min",
+              ""
+            ],
+            [
+              41280.0,
+              "Jefferson Park",
+              "24 min",
+              ""
+            ],
+            [
+              40750.0,
+              "Harlem (O'Hare Branch)",
+              "28 min",
+              ""
+            ],
+            [
+              40230.0,
+              "Cumberland",
+              "31 min",
+              ""
+            ],
+            [
+              40820.0,
+              "Rosemont",
+              "34 min",
+              ""
+            ],
+            [
+              40890.0,
+              "O'Hare",
+              "39 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.87442,
+            "Lng": -87.70605
+          },
+          "RunNumber": "222",
+          "CurrentStationId": "11140",
+          "ExitStationId": "11700",
+          "Direction": 0.137554019595836,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "O'Hare ",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blue",
+          "Predictions": [
+            [
+              40220.0,
+              "Western (Forest Park Branch)",
+              "3 min",
+              ""
+            ],
+            [
+              40810.0,
+              "Illinois Medical District",
+              "5 min",
+              ""
+            ],
+            [
+              40470.0,
+              "Racine",
+              "8 min",
+              ""
+            ],
+            [
+              40350.0,
+              "UIC-Halsted",
+              "9 min",
+              ""
+            ],
+            [
+              40430.0,
+              "Clinton",
+              "11 min",
+              ""
+            ],
+            [
+              41340.0,
+              "LaSalle",
+              "12 min",
+              ""
+            ],
+            [
+              40070.0,
+              "Jackson",
+              "14 min",
+              ""
+            ],
+            [
+              40790.0,
+              "Monroe",
+              "15 min",
+              ""
+            ],
+            [
+              40370.0,
+              "Washington",
+              "16 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "18 min",
+              ""
+            ],
+            [
+              40490.0,
+              "Grand",
+              "22 min",
+              ""
+            ],
+            [
+              41410.0,
+              "Chicago",
+              "25 min",
+              ""
+            ],
+            [
+              40320.0,
+              "Division",
+              "27 min",
+              ""
+            ],
+            [
+              40590.0,
+              "Damen",
+              "29 min",
+              ""
+            ],
+            [
+              40670.0,
+              "Western (O'Hare Branch)",
+              "30 min",
+              ""
+            ],
+            [
+              40570.0,
+              "California",
+              "32 min",
+              ""
+            ],
+            [
+              41020.0,
+              "Logan Square",
+              "34 min",
+              ""
+            ],
+            [
+              40060.0,
+              "Belmont",
+              "37 min",
+              ""
+            ],
+            [
+              41240.0,
+              "Addison",
+              "39 min",
+              ""
+            ],
+            [
+              40550.0,
+              "Irving Park",
+              "41 min",
+              ""
+            ],
+            [
+              41330.0,
+              "Montrose",
+              "44 min",
+              ""
+            ],
+            [
+              41280.0,
+              "Jefferson Park",
+              "47 min",
+              ""
+            ],
+            [
+              40750.0,
+              "Harlem (O'Hare Branch)",
+              "52 min",
+              ""
+            ],
+            [
+              40230.0,
+              "Cumberland",
+              "55 min",
+              ""
+            ],
+            [
+              40820.0,
+              "Rosemont",
+              "58 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.95296,
+            "Lng": -87.72921
+          },
+          "RunNumber": "320",
+          "CurrentStationId": "11560",
+          "ExitStationId": "11602",
+          "Direction": 2.63111015998782,
+          "LineName": "Blu",
+          "DirMod": "to",
+          "DestName": "Jefferson Park",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_blue",
+          "Predictions": [
+            [
+              41330.0,
+              "Montrose",
+              "2 min",
+              ""
+            ],
+            [
+              41280.0,
+              "Jefferson Park",
+              "6 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        }
+      ]
+    },
+    {
+      "Line": "V",
+      "Markers": [
+        {
+          "Position": {
+            "Lat": 41.87018,
+            "Lng": -87.66951
+          },
+          "RunNumber": "310",
+          "CurrentStationId": "65121",
+          "ExitStationId": "65323",
+          "Direction": 4.73785451968967,
+          "LineName": "Pnk",
+          "DirMod": "to",
+          "DestName": "54th/Cermak",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_pink",
+          "Predictions": [
+            [
+              40830.0,
+              "18th",
+              "Due",
+              ""
+            ],
+            [
+              40210.0,
+              "Damen",
+              "3 min",
+              ""
+            ],
+            [
+              40740.0,
+              "Western",
+              "4 min",
+              ""
+            ],
+            [
+              40440.0,
+              "California",
+              "5 min",
+              ""
+            ],
+            [
+              41040.0,
+              "Kedzie",
+              "7 min",
+              ""
+            ],
+            [
+              40780.0,
+              "Central Park",
+              "8 min",
+              ""
+            ],
+            [
+              40150.0,
+              "Pulaski",
+              "9 min",
+              ""
+            ],
+            [
+              40600.0,
+              "Kostner",
+              "11 min",
+              ""
+            ],
+            [
+              40420.0,
+              "Cicero",
+              "14 min",
+              ""
+            ],
+            [
+              40580.0,
+              "54th/Cermak",
+              "16 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.85397,
+            "Lng": -87.7159
+          },
+          "RunNumber": "311",
+          "CurrentStationId": "61098",
+          "ExitStationId": "65323",
+          "Direction": 0.0253669230508471,
+          "LineName": "Pnk",
+          "DirMod": "to",
+          "DestName": "Loop",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_pink",
+          "Predictions": [
+            [
+              40780.0,
+              "Central Park",
+              "Due",
+              ""
+            ],
+            [
+              41040.0,
+              "Kedzie",
+              "Due",
+              ""
+            ],
+            [
+              40440.0,
+              "California",
+              "3 min",
+              ""
+            ],
+            [
+              40740.0,
+              "Western",
+              "4 min",
+              ""
+            ],
+            [
+              40210.0,
+              "Damen",
+              "5 min",
+              ""
+            ],
+            [
+              40830.0,
+              "18th",
+              "8 min",
+              ""
+            ],
+            [
+              41030.0,
+              "Polk",
+              "10 min",
+              ""
+            ],
+            [
+              40170.0,
+              "Ashland",
+              "14 min",
+              ""
+            ],
+            [
+              41160.0,
+              "Clinton",
+              "16 min",
+              ""
+            ],
+            [
+              41510.0,
+              "Morgan",
+              "16 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "19 min",
+              ""
+            ],
+            [
+              40260.0,
+              "State/Lake",
+              "21 min",
+              ""
+            ],
+            [
+              41700.0,
+              "Washington/Wabash",
+              "23 min",
+              ""
+            ],
+            [
+              40680.0,
+              "Adams/Wabash",
+              "24 min",
+              ""
+            ],
+            [
+              40850.0,
+              "Harold Washington Library-State/Van Buren",
+              "26 min",
+              ""
+            ],
+            [
+              40160.0,
+              "LaSalle/Van Buren",
+              "27 min",
+              ""
+            ],
+            [
+              40040.0,
+              "Quincy",
+              "29 min",
+              ""
+            ],
+            [
+              40730.0,
+              "Washington/Wells",
+              "30 min",
+              ""
+            ],
+            [
+              41160.0,
+              "Clinton",
+              "34 min",
+              ""
+            ],
+            [
+              41510.0,
+              "Morgan",
+              "36 min",
+              ""
+            ],
+            [
+              40170.0,
+              "Ashland",
+              "38 min",
+              ""
+            ],
+            [
+              41030.0,
+              "Polk",
+              "41 min",
+              ""
+            ],
+            [
+              40830.0,
+              "18th",
+              "43 min",
+              ""
+            ],
+            [
+              40210.0,
+              "Damen",
+              "45 min",
+              ""
+            ],
+            [
+              40740.0,
+              "Western",
+              "46 min",
+              ""
+            ],
+            [
+              40440.0,
+              "California",
+              "47 min",
+              ""
+            ],
+            [
+              41040.0,
+              "Kedzie",
+              "49 min",
+              ""
+            ],
+            [
+              40780.0,
+              "Central Park",
+              "50 min",
+              ""
+            ],
+            [
+              40150.0,
+              "Pulaski",
+              "52 min",
+              ""
+            ],
+            [
+              40600.0,
+              "Kostner",
+              "53 min",
+              ""
+            ],
+            [
+              40420.0,
+              "Cicero",
+              "56 min",
+              ""
+            ],
+            [
+              40580.0,
+              "54th/Cermak",
+              "58 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.85791,
+            "Lng": -87.66916
+          },
+          "RunNumber": "315",
+          "CurrentStationId": "61200",
+          "ExitStationId": "65323",
+          "Direction": 1.59507157914076,
+          "LineName": "Pnk",
+          "DirMod": "to",
+          "DestName": "Loop",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_pink",
+          "Predictions": [
+            [
+              41030.0,
+              "Polk",
+              "2 min",
+              ""
+            ],
+            [
+              40170.0,
+              "Ashland",
+              "5 min",
+              ""
+            ],
+            [
+              41510.0,
+              "Morgan",
+              "7 min",
+              ""
+            ],
+            [
+              41160.0,
+              "Clinton",
+              "8 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "11 min",
+              ""
+            ],
+            [
+              40260.0,
+              "State/Lake",
+              "12 min",
+              ""
+            ],
+            [
+              41700.0,
+              "Washington/Wabash",
+              "15 min",
+              ""
+            ],
+            [
+              40680.0,
+              "Adams/Wabash",
+              "16 min",
+              ""
+            ],
+            [
+              40850.0,
+              "Harold Washington Library-State/Van Buren",
+              "18 min",
+              ""
+            ],
+            [
+              40160.0,
+              "LaSalle/Van Buren",
+              "19 min",
+              ""
+            ],
+            [
+              40040.0,
+              "Quincy",
+              "20 min",
+              ""
+            ],
+            [
+              40730.0,
+              "Washington/Wells",
+              "22 min",
+              ""
+            ],
+            [
+              41160.0,
+              "Clinton",
+              "26 min",
+              ""
+            ],
+            [
+              41510.0,
+              "Morgan",
+              "27 min",
+              ""
+            ],
+            [
+              40170.0,
+              "Ashland",
+              "29 min",
+              ""
+            ],
+            [
+              41030.0,
+              "Polk",
+              "33 min",
+              ""
+            ],
+            [
+              40830.0,
+              "18th",
+              "34 min",
+              ""
+            ],
+            [
+              40210.0,
+              "Damen",
+              "37 min",
+              ""
+            ],
+            [
+              40740.0,
+              "Western",
+              "37 min",
+              ""
+            ],
+            [
+              40440.0,
+              "California",
+              "39 min",
+              ""
+            ],
+            [
+              41040.0,
+              "Kedzie",
+              "40 min",
+              ""
+            ],
+            [
+              40780.0,
+              "Central Park",
+              "42 min",
+              ""
+            ],
+            [
+              40150.0,
+              "Pulaski",
+              "43 min",
+              ""
+            ],
+            [
+              40600.0,
+              "Kostner",
+              "45 min",
+              ""
+            ],
+            [
+              40420.0,
+              "Cicero",
+              "48 min",
+              ""
+            ],
+            [
+              40580.0,
+              "54th/Cermak",
+              "49 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.87691,
+            "Lng": -87.6282
+          },
+          "RunNumber": "318",
+          "CurrentStationId": "55040",
+          "ExitStationId": "65323",
+          "Direction": 3.17860297496746,
+          "LineName": "Pnk",
+          "DirMod": "to",
+          "DestName": "54th/Cermak",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_pink",
+          "Predictions": [
+            [
+              40160.0,
+              "LaSalle/Van Buren",
+              "Due",
+              ""
+            ],
+            [
+              40040.0,
+              "Quincy",
+              "2 min",
+              ""
+            ],
+            [
+              40730.0,
+              "Washington/Wells",
+              "4 min",
+              ""
+            ],
+            [
+              41160.0,
+              "Clinton",
+              "8 min",
+              ""
+            ],
+            [
+              41510.0,
+              "Morgan",
+              "9 min",
+              ""
+            ],
+            [
+              40170.0,
+              "Ashland",
+              "11 min",
+              ""
+            ],
+            [
+              41030.0,
+              "Polk",
+              "14 min",
+              ""
+            ],
+            [
+              40830.0,
+              "18th",
+              "16 min",
+              ""
+            ],
+            [
+              40210.0,
+              "Damen",
+              "18 min",
+              ""
+            ],
+            [
+              40740.0,
+              "Western",
+              "19 min",
+              ""
+            ],
+            [
+              40440.0,
+              "California",
+              "21 min",
+              ""
+            ],
+            [
+              41040.0,
+              "Kedzie",
+              "22 min",
+              ""
+            ],
+            [
+              40780.0,
+              "Central Park",
+              "24 min",
+              ""
+            ],
+            [
+              40150.0,
+              "Pulaski",
+              "25 min",
+              ""
+            ],
+            [
+              40600.0,
+              "Kostner",
+              "27 min",
+              ""
+            ],
+            [
+              40420.0,
+              "Cicero",
+              "29 min",
+              ""
+            ],
+            [
+              40580.0,
+              "54th/Cermak",
+              "31 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        }
+      ]
+    },
+    {
+      "Line": "G",
+      "Markers": [
+        {
+          "Position": {
+            "Lat": 41.86209,
+            "Lng": -87.6265
+          },
+          "RunNumber": "013",
+          "CurrentStationId": "55350",
+          "ExitStationId": "45620",
+          "Direction": 4.72895521043718,
+          "LineName": "Grn",
+          "DirMod": "to",
+          "DestName": "Cottage Grove",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_greeninv",
+          "Predictions": [
+            [
+              41690.0,
+              "Cermak-McCormick Place",
+              "2 min",
+              ""
+            ],
+            [
+              41120.0,
+              "35th-Bronzeville-IIT",
+              "6 min",
+              ""
+            ],
+            [
+              40300.0,
+              "Indiana",
+              "9 min",
+              ""
+            ],
+            [
+              41270.0,
+              "43rd",
+              "11 min",
+              ""
+            ],
+            [
+              41080.0,
+              "47th",
+              "13 min",
+              ""
+            ],
+            [
+              40130.0,
+              "51st",
+              "15 min",
+              ""
+            ],
+            [
+              40510.0,
+              "Garfield",
+              "16 min",
+              ""
+            ],
+            [
+              41140.0,
+              "King Drive",
+              "21 min",
+              ""
+            ],
+            [
+              40720.0,
+              "Cottage Grove",
+              "23 min",
+              ""
+            ]
+          ],
+          "Flags": "I"
+        },
+        {
+          "Position": {
+            "Lat": 41.86744,
+            "Lng": -87.62659
+          },
+          "RunNumber": "014",
+          "CurrentStationId": "55340",
+          "ExitStationId": "45800",
+          "Direction": 4.75947898258789,
+          "LineName": "Grn",
+          "DirMod": "to",
+          "DestName": "Ashland/63rd",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_green",
+          "Predictions": [
+            [
+              41690.0,
+              "Cermak-McCormick Place",
+              "4 min",
+              ""
+            ],
+            [
+              41120.0,
+              "35th-Bronzeville-IIT",
+              "8 min",
+              ""
+            ],
+            [
+              40300.0,
+              "Indiana",
+              "11 min",
+              ""
+            ],
+            [
+              41270.0,
+              "43rd",
+              "13 min",
+              ""
+            ],
+            [
+              41080.0,
+              "47th",
+              "15 min",
+              ""
+            ],
+            [
+              40130.0,
+              "51st",
+              "16 min",
+              ""
+            ],
+            [
+              40510.0,
+              "Garfield",
+              "18 min",
+              ""
+            ],
+            [
+              40940.0,
+              "Halsted",
+              "26 min",
+              ""
+            ],
+            [
+              40290.0,
+              "Ashland/63rd",
+              "28 min",
+              ""
+            ]
+          ],
+          "Flags": "A"
+        },
+        {
+          "Position": {
+            "Lat": 41.88699,
+            "Lng": -87.79378
+          },
+          "RunNumber": "016",
+          "CurrentStationId": "41760",
+          "ExitStationId": "41780",
+          "Direction": 3.15873158868412,
+          "LineName": "Grn",
+          "DirMod": "to",
+          "DestName": "Harlem/Lake",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_green",
+          "Predictions": [
+            [
+              40020.0,
+              "Harlem/Lake",
+              "Due",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.83168,
+            "Lng": -87.62588
+          },
+          "RunNumber": "017",
+          "CurrentStationId": "41280",
+          "ExitStationId": "41780",
+          "Direction": 1.59210271064737,
+          "LineName": "Grn",
+          "DirMod": "to",
+          "DestName": "Harlem/Lake",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_green",
+          "Predictions": [
+            [
+              41690.0,
+              "Cermak-McCormick Place",
+              "3 min",
+              ""
+            ],
+            [
+              41400.0,
+              "Roosevelt",
+              "7 min",
+              ""
+            ],
+            [
+              40680.0,
+              "Adams/Wabash",
+              "11 min",
+              ""
+            ],
+            [
+              41700.0,
+              "Washington/Wabash",
+              "12 min",
+              ""
+            ],
+            [
+              40260.0,
+              "State/Lake",
+              "13 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "15 min",
+              ""
+            ],
+            [
+              41160.0,
+              "Clinton",
+              "18 min",
+              ""
+            ],
+            [
+              41510.0,
+              "Morgan",
+              "19 min",
+              ""
+            ],
+            [
+              40170.0,
+              "Ashland",
+              "21 min",
+              ""
+            ],
+            [
+              41360.0,
+              "California",
+              "25 min",
+              ""
+            ],
+            [
+              41070.0,
+              "Kedzie",
+              "26 min",
+              ""
+            ],
+            [
+              41670.0,
+              "Conservatory-Central Park Drive",
+              "28 min",
+              ""
+            ],
+            [
+              40030.0,
+              "Pulaski",
+              "30 min",
+              ""
+            ],
+            [
+              40480.0,
+              "Cicero",
+              "33 min",
+              ""
+            ],
+            [
+              40700.0,
+              "Laramie",
+              "34 min",
+              ""
+            ],
+            [
+              40280.0,
+              "Central",
+              "36 min",
+              ""
+            ],
+            [
+              41260.0,
+              "Austin",
+              "38 min",
+              ""
+            ],
+            [
+              40610.0,
+              "Ridgeland",
+              "39 min",
+              ""
+            ],
+            [
+              41350.0,
+              "Oak Park",
+              "41 min",
+              ""
+            ],
+            [
+              40020.0,
+              "Harlem/Lake",
+              "42 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.79121,
+            "Lng": -87.61821
+          },
+          "RunNumber": "019",
+          "CurrentStationId": "45565",
+          "ExitStationId": "45800",
+          "Direction": 4.75122109699572,
+          "LineName": "Grn",
+          "DirMod": "to",
+          "DestName": "Ashland/63rd",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_green",
+          "Predictions": [
+            [
+              40940.0,
+              "Halsted",
+              "5 min",
+              ""
+            ],
+            [
+              40290.0,
+              "Ashland/63rd",
+              "8 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.88571,
+            "Lng": -87.63851
+          },
+          "RunNumber": "020",
+          "CurrentStationId": "45350",
+          "ExitStationId": "45620",
+          "Direction": 0.00397264036070013,
+          "LineName": "Grn",
+          "DirMod": "to",
+          "DestName": "Cottage Grove",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_greeninv",
+          "Predictions": [
+            [
+              40380.0,
+              "Clark/Lake",
+              "2 min",
+              ""
+            ],
+            [
+              40260.0,
+              "State/Lake",
+              "3 min",
+              ""
+            ],
+            [
+              41700.0,
+              "Washington/Wabash",
+              "5 min",
+              ""
+            ],
+            [
+              40680.0,
+              "Adams/Wabash",
+              "6 min",
+              ""
+            ],
+            [
+              41400.0,
+              "Roosevelt",
+              "10 min",
+              ""
+            ],
+            [
+              41690.0,
+              "Cermak-McCormick Place",
+              "14 min",
+              ""
+            ],
+            [
+              41120.0,
+              "35th-Bronzeville-IIT",
+              "18 min",
+              ""
+            ],
+            [
+              40300.0,
+              "Indiana",
+              "22 min",
+              ""
+            ],
+            [
+              41270.0,
+              "43rd",
+              "24 min",
+              ""
+            ],
+            [
+              41080.0,
+              "47th",
+              "25 min",
+              ""
+            ],
+            [
+              40130.0,
+              "51st",
+              "27 min",
+              ""
+            ],
+            [
+              40510.0,
+              "Garfield",
+              "29 min",
+              ""
+            ],
+            [
+              41140.0,
+              "King Drive",
+              "33 min",
+              ""
+            ],
+            [
+              40720.0,
+              "Cottage Grove",
+              "35 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.88574,
+            "Lng": -87.6305
+          },
+          "RunNumber": "609",
+          "CurrentStationId": "31259",
+          "ExitStationId": "41780",
+          "Direction": 3.14237810797673,
+          "LineName": "Grn",
+          "DirMod": "to",
+          "DestName": "Harlem/Lake",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_green",
+          "Predictions": [
+            [
+              40380.0,
+              "Clark/Lake",
+              "Due",
+              ""
+            ],
+            [
+              41160.0,
+              "Clinton",
+              "3 min",
+              ""
+            ],
+            [
+              41510.0,
+              "Morgan",
+              "4 min",
+              ""
+            ],
+            [
+              40170.0,
+              "Ashland",
+              "6 min",
+              ""
+            ],
+            [
+              41360.0,
+              "California",
+              "10 min",
+              ""
+            ],
+            [
+              41070.0,
+              "Kedzie",
+              "11 min",
+              ""
+            ],
+            [
+              41670.0,
+              "Conservatory-Central Park Drive",
+              "13 min",
+              ""
+            ],
+            [
+              40030.0,
+              "Pulaski",
+              "15 min",
+              ""
+            ],
+            [
+              40480.0,
+              "Cicero",
+              "18 min",
+              ""
+            ],
+            [
+              40700.0,
+              "Laramie",
+              "19 min",
+              ""
+            ],
+            [
+              40280.0,
+              "Central",
+              "21 min",
+              ""
+            ],
+            [
+              41260.0,
+              "Austin",
+              "23 min",
+              ""
+            ],
+            [
+              40610.0,
+              "Ridgeland",
+              "24 min",
+              ""
+            ],
+            [
+              41350.0,
+              "Oak Park",
+              "26 min",
+              ""
+            ],
+            [
+              40020.0,
+              "Harlem/Lake",
+              "27 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.88436,
+            "Lng": -87.69232
+          },
+          "RunNumber": "611",
+          "CurrentStationId": "45221",
+          "ExitStationId": "45800",
+          "Direction": 0.0240659352928172,
+          "LineName": "Grn",
+          "DirMod": "to",
+          "DestName": "Ashland/63rd",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_green",
+          "Predictions": [
+            [
+              40170.0,
+              "Ashland",
+              "4 min",
+              ""
+            ],
+            [
+              41510.0,
+              "Morgan",
+              "5 min",
+              ""
+            ],
+            [
+              41160.0,
+              "Clinton",
+              "6 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "9 min",
+              ""
+            ],
+            [
+              40260.0,
+              "State/Lake",
+              "11 min",
+              ""
+            ],
+            [
+              41700.0,
+              "Washington/Wabash",
+              "13 min",
+              ""
+            ],
+            [
+              40680.0,
+              "Adams/Wabash",
+              "14 min",
+              ""
+            ],
+            [
+              41400.0,
+              "Roosevelt",
+              "18 min",
+              ""
+            ],
+            [
+              41690.0,
+              "Cermak-McCormick Place",
+              "22 min",
+              ""
+            ],
+            [
+              41120.0,
+              "35th-Bronzeville-IIT",
+              "26 min",
+              ""
+            ],
+            [
+              40300.0,
+              "Indiana",
+              "30 min",
+              ""
+            ],
+            [
+              41270.0,
+              "43rd",
+              "31 min",
+              ""
+            ],
+            [
+              41080.0,
+              "47th",
+              "33 min",
+              ""
+            ],
+            [
+              40130.0,
+              "51st",
+              "35 min",
+              ""
+            ],
+            [
+              40510.0,
+              "Garfield",
+              "37 min",
+              ""
+            ],
+            [
+              40940.0,
+              "Halsted",
+              "44 min",
+              ""
+            ],
+            [
+              40290.0,
+              "Ashland/63rd",
+              "46 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.79125,
+            "Lng": -87.61822
+          },
+          "RunNumber": "612",
+          "CurrentStationId": "41178",
+          "ExitStationId": "41780",
+          "Direction": 1.60962844340592,
+          "LineName": "Grn",
+          "DirMod": "to",
+          "DestName": "Harlem/Lake",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_green",
+          "Predictions": [
+            [
+              40510.0,
+              "Garfield",
+              "Due",
+              ""
+            ],
+            [
+              40130.0,
+              "51st",
+              "2 min",
+              ""
+            ],
+            [
+              41080.0,
+              "47th",
+              "4 min",
+              ""
+            ],
+            [
+              41270.0,
+              "43rd",
+              "5 min",
+              ""
+            ],
+            [
+              40300.0,
+              "Indiana",
+              "7 min",
+              ""
+            ],
+            [
+              41120.0,
+              "35th-Bronzeville-IIT",
+              "10 min",
+              ""
+            ],
+            [
+              41690.0,
+              "Cermak-McCormick Place",
+              "13 min",
+              ""
+            ],
+            [
+              41400.0,
+              "Roosevelt",
+              "18 min",
+              ""
+            ],
+            [
+              40680.0,
+              "Adams/Wabash",
+              "21 min",
+              ""
+            ],
+            [
+              41700.0,
+              "Washington/Wabash",
+              "22 min",
+              ""
+            ],
+            [
+              40260.0,
+              "State/Lake",
+              "24 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "25 min",
+              ""
+            ],
+            [
+              41160.0,
+              "Clinton",
+              "28 min",
+              ""
+            ],
+            [
+              41510.0,
+              "Morgan",
+              "29 min",
+              ""
+            ],
+            [
+              40170.0,
+              "Ashland",
+              "31 min",
+              ""
+            ],
+            [
+              41360.0,
+              "California",
+              "35 min",
+              ""
+            ],
+            [
+              41070.0,
+              "Kedzie",
+              "36 min",
+              ""
+            ],
+            [
+              41670.0,
+              "Conservatory-Central Park Drive",
+              "38 min",
+              ""
+            ],
+            [
+              40030.0,
+              "Pulaski",
+              "40 min",
+              ""
+            ],
+            [
+              40480.0,
+              "Cicero",
+              "43 min",
+              ""
+            ],
+            [
+              40700.0,
+              "Laramie",
+              "44 min",
+              ""
+            ],
+            [
+              40280.0,
+              "Central",
+              "46 min",
+              ""
+            ],
+            [
+              41260.0,
+              "Austin",
+              "48 min",
+              ""
+            ],
+            [
+              40610.0,
+              "Ridgeland",
+              "49 min",
+              ""
+            ],
+            [
+              41350.0,
+              "Oak Park",
+              "51 min",
+              ""
+            ],
+            [
+              40020.0,
+              "Harlem/Lake",
+              "52 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.88652,
+            "Lng": -87.7447
+          },
+          "RunNumber": "614",
+          "CurrentStationId": "45140",
+          "ExitStationId": "45620",
+          "Direction": 6.22403500713471,
+          "LineName": "Grn",
+          "DirMod": "to",
+          "DestName": "Cottage Grove",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_greeninv",
+          "Predictions": [
+            [
+              40030.0,
+              "Pulaski",
+              "2 min",
+              ""
+            ],
+            [
+              41670.0,
+              "Conservatory-Central Park Drive",
+              "4 min",
+              ""
+            ],
+            [
+              41070.0,
+              "Kedzie",
+              "6 min",
+              ""
+            ],
+            [
+              41360.0,
+              "California",
+              "7 min",
+              ""
+            ],
+            [
+              40170.0,
+              "Ashland",
+              "12 min",
+              ""
+            ],
+            [
+              41510.0,
+              "Morgan",
+              "14 min",
+              ""
+            ],
+            [
+              41160.0,
+              "Clinton",
+              "15 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "18 min",
+              ""
+            ],
+            [
+              40260.0,
+              "State/Lake",
+              "19 min",
+              ""
+            ],
+            [
+              41700.0,
+              "Washington/Wabash",
+              "21 min",
+              ""
+            ],
+            [
+              40680.0,
+              "Adams/Wabash",
+              "22 min",
+              ""
+            ],
+            [
+              41400.0,
+              "Roosevelt",
+              "26 min",
+              ""
+            ],
+            [
+              41690.0,
+              "Cermak-McCormick Place",
+              "31 min",
+              ""
+            ],
+            [
+              41120.0,
+              "35th-Bronzeville-IIT",
+              "34 min",
+              ""
+            ],
+            [
+              40300.0,
+              "Indiana",
+              "38 min",
+              ""
+            ],
+            [
+              41270.0,
+              "43rd",
+              "40 min",
+              ""
+            ],
+            [
+              41080.0,
+              "47th",
+              "42 min",
+              ""
+            ],
+            [
+              40130.0,
+              "51st",
+              "43 min",
+              ""
+            ],
+            [
+              40510.0,
+              "Garfield",
+              "45 min",
+              ""
+            ],
+            [
+              41140.0,
+              "King Drive",
+              "50 min",
+              ""
+            ],
+            [
+              40720.0,
+              "Cottage Grove",
+              "52 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.88498,
+            "Lng": -87.67645
+          },
+          "RunNumber": "616",
+          "CurrentStationId": "41540",
+          "ExitStationId": "41780",
+          "Direction": 3.17623760577364,
+          "LineName": "Grn",
+          "DirMod": "to",
+          "DestName": "Harlem/Lake",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_green",
+          "Predictions": [
+            [
+              41360.0,
+              "California",
+              "2 min",
+              ""
+            ],
+            [
+              41070.0,
+              "Kedzie",
+              "3 min",
+              ""
+            ],
+            [
+              41670.0,
+              "Conservatory-Central Park Drive",
+              "5 min",
+              ""
+            ],
+            [
+              40030.0,
+              "Pulaski",
+              "7 min",
+              ""
+            ],
+            [
+              40480.0,
+              "Cicero",
+              "9 min",
+              ""
+            ],
+            [
+              40700.0,
+              "Laramie",
+              "11 min",
+              ""
+            ],
+            [
+              40280.0,
+              "Central",
+              "13 min",
+              ""
+            ],
+            [
+              41260.0,
+              "Austin",
+              "14 min",
+              ""
+            ],
+            [
+              40610.0,
+              "Ridgeland",
+              "16 min",
+              ""
+            ],
+            [
+              41350.0,
+              "Oak Park",
+              "17 min",
+              ""
+            ],
+            [
+              40020.0,
+              "Harlem/Lake",
+              "19 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.8795,
+            "Lng": -87.6261
+          },
+          "RunNumber": "618",
+          "CurrentStationId": "31180",
+          "ExitStationId": "41780",
+          "Direction": 1.60743866232403,
+          "LineName": "Grn",
+          "DirMod": "to",
+          "DestName": "Harlem/Lake",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_green",
+          "Predictions": [
+            [
+              41700.0,
+              "Washington/Wabash",
+              "Due",
+              ""
+            ],
+            [
+              40260.0,
+              "State/Lake",
+              "2 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "3 min",
+              ""
+            ],
+            [
+              41160.0,
+              "Clinton",
+              "6 min",
+              ""
+            ],
+            [
+              41510.0,
+              "Morgan",
+              "8 min",
+              ""
+            ],
+            [
+              40170.0,
+              "Ashland",
+              "10 min",
+              ""
+            ],
+            [
+              41360.0,
+              "California",
+              "13 min",
+              ""
+            ],
+            [
+              41070.0,
+              "Kedzie",
+              "15 min",
+              ""
+            ],
+            [
+              41670.0,
+              "Conservatory-Central Park Drive",
+              "17 min",
+              ""
+            ],
+            [
+              40030.0,
+              "Pulaski",
+              "19 min",
+              ""
+            ],
+            [
+              40480.0,
+              "Cicero",
+              "21 min",
+              ""
+            ],
+            [
+              40700.0,
+              "Laramie",
+              "23 min",
+              ""
+            ],
+            [
+              40280.0,
+              "Central",
+              "24 min",
+              ""
+            ],
+            [
+              41260.0,
+              "Austin",
+              "26 min",
+              ""
+            ],
+            [
+              40610.0,
+              "Ridgeland",
+              "27 min",
+              ""
+            ],
+            [
+              41350.0,
+              "Oak Park",
+              "29 min",
+              ""
+            ],
+            [
+              40020.0,
+              "Harlem/Lake",
+              "30 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        }
+      ]
+    },
+    {
+      "Line": "T",
+      "Markers": [
+        {
+          "Position": {
+            "Lat": 41.88309,
+            "Lng": -87.63386
+          },
+          "RunNumber": "414",
+          "CurrentStationId": "31059",
+          "ExitStationId": "31740",
+          "Direction": 4.73315648415903,
+          "LineName": "Brn",
+          "DirMod": "to",
+          "DestName": "Kimball",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_brown",
+          "Predictions": [
+            [
+              40040.0,
+              "Quincy",
+              "Due",
+              ""
+            ],
+            [
+              40730.0,
+              "Washington/Wells",
+              "Due",
+              ""
+            ],
+            [
+              40160.0,
+              "LaSalle/Van Buren",
+              "2 min",
+              ""
+            ],
+            [
+              40850.0,
+              "Harold Washington Library-State/Van Buren",
+              "3 min",
+              ""
+            ],
+            [
+              40680.0,
+              "Adams/Wabash",
+              "6 min",
+              ""
+            ],
+            [
+              41700.0,
+              "Washington/Wabash",
+              "7 min",
+              ""
+            ],
+            [
+              40260.0,
+              "State/Lake",
+              "9 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "10 min",
+              ""
+            ],
+            [
+              40460.0,
+              "Merchandise Mart",
+              "12 min",
+              ""
+            ],
+            [
+              40710.0,
+              "Chicago",
+              "15 min",
+              ""
+            ],
+            [
+              40800.0,
+              "Sedgwick",
+              "19 min",
+              ""
+            ],
+            [
+              40660.0,
+              "Armitage",
+              "23 min",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "25 min",
+              ""
+            ],
+            [
+              40530.0,
+              "Diversey",
+              "28 min",
+              ""
+            ],
+            [
+              41210.0,
+              "Wellington",
+              "29 min",
+              ""
+            ],
+            [
+              41320.0,
+              "Belmont",
+              "30 min",
+              ""
+            ],
+            [
+              40360.0,
+              "Southport",
+              "33 min",
+              ""
+            ],
+            [
+              41310.0,
+              "Paulina",
+              "35 min",
+              ""
+            ],
+            [
+              41440.0,
+              "Addison",
+              "36 min",
+              ""
+            ],
+            [
+              41460.0,
+              "Irving Park",
+              "38 min",
+              ""
+            ],
+            [
+              41500.0,
+              "Montrose",
+              "40 min",
+              ""
+            ],
+            [
+              40090.0,
+              "Damen",
+              "42 min",
+              ""
+            ],
+            [
+              41480.0,
+              "Western",
+              "43 min",
+              ""
+            ],
+            [
+              41010.0,
+              "Rockwell",
+              "44 min",
+              ""
+            ],
+            [
+              40870.0,
+              "Francisco",
+              "46 min",
+              ""
+            ],
+            [
+              41180.0,
+              "Kedzie",
+              "47 min",
+              ""
+            ],
+            [
+              41290.0,
+              "Kimball",
+              "48 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.96613,
+            "Lng": -87.70504
+          },
+          "RunNumber": "418",
+          "CurrentStationId": "31712",
+          "ExitStationId": "31740",
+          "Direction": 3.14872054000048,
+          "LineName": "Brn",
+          "DirMod": "to",
+          "DestName": "Kimball",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_brown",
+          "Predictions": [
+            [
+              41180.0,
+              "Kedzie",
+              "Due",
+              ""
+            ],
+            [
+              41290.0,
+              "Kimball",
+              "Due",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.96615,
+            "Lng": -87.69996
+          },
+          "RunNumber": "419",
+          "CurrentStationId": "35061",
+          "ExitStationId": "31740",
+          "Direction": 0.00427572713151252,
+          "LineName": "Brn",
+          "DirMod": "to",
+          "DestName": "Loop",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_brown",
+          "Predictions": [
+            [
+              41010.0,
+              "Rockwell",
+              "Due",
+              ""
+            ],
+            [
+              41480.0,
+              "Western",
+              "2 min",
+              ""
+            ],
+            [
+              40090.0,
+              "Damen",
+              "3 min",
+              ""
+            ],
+            [
+              41500.0,
+              "Montrose",
+              "5 min",
+              ""
+            ],
+            [
+              41460.0,
+              "Irving Park",
+              "7 min",
+              ""
+            ],
+            [
+              41440.0,
+              "Addison",
+              "9 min",
+              ""
+            ],
+            [
+              41310.0,
+              "Paulina",
+              "10 min",
+              ""
+            ],
+            [
+              40360.0,
+              "Southport",
+              "11 min",
+              ""
+            ],
+            [
+              41320.0,
+              "Belmont",
+              "14 min",
+              ""
+            ],
+            [
+              41210.0,
+              "Wellington",
+              "16 min",
+              ""
+            ],
+            [
+              40530.0,
+              "Diversey",
+              "17 min",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "20 min",
+              ""
+            ],
+            [
+              40660.0,
+              "Armitage",
+              "21 min",
+              ""
+            ],
+            [
+              40800.0,
+              "Sedgwick",
+              "25 min",
+              ""
+            ],
+            [
+              40710.0,
+              "Chicago",
+              "29 min",
+              ""
+            ],
+            [
+              40460.0,
+              "Merchandise Mart",
+              "31 min",
+              ""
+            ],
+            [
+              40730.0,
+              "Washington/Wells",
+              "33 min",
+              ""
+            ],
+            [
+              40040.0,
+              "Quincy",
+              "34 min",
+              ""
+            ],
+            [
+              40160.0,
+              "LaSalle/Van Buren",
+              "36 min",
+              ""
+            ],
+            [
+              40850.0,
+              "Harold Washington Library-State/Van Buren",
+              "37 min",
+              ""
+            ],
+            [
+              40680.0,
+              "Adams/Wabash",
+              "40 min",
+              ""
+            ],
+            [
+              41700.0,
+              "Washington/Wabash",
+              "41 min",
+              ""
+            ],
+            [
+              40260.0,
+              "State/Lake",
+              "42 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "43 min",
+              ""
+            ],
+            [
+              40460.0,
+              "Merchandise Mart",
+              "46 min",
+              ""
+            ],
+            [
+              40710.0,
+              "Chicago",
+              "48 min",
+              ""
+            ],
+            [
+              40800.0,
+              "Sedgwick",
+              "53 min",
+              ""
+            ],
+            [
+              40660.0,
+              "Armitage",
+              "57 min",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "59 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.94404,
+            "Lng": -87.67404
+          },
+          "RunNumber": "420",
+          "CurrentStationId": "31561",
+          "ExitStationId": "31740",
+          "Direction": 2.6243100636017,
+          "LineName": "Brn",
+          "DirMod": "to",
+          "DestName": "Kimball",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_brown",
+          "Predictions": [
+            [
+              41440.0,
+              "Addison",
+              "Due",
+              ""
+            ],
+            [
+              41460.0,
+              "Irving Park",
+              "2 min",
+              ""
+            ],
+            [
+              41500.0,
+              "Montrose",
+              "3 min",
+              ""
+            ],
+            [
+              40090.0,
+              "Damen",
+              "5 min",
+              ""
+            ],
+            [
+              41480.0,
+              "Western",
+              "7 min",
+              ""
+            ],
+            [
+              41010.0,
+              "Rockwell",
+              "8 min",
+              ""
+            ],
+            [
+              40870.0,
+              "Francisco",
+              "9 min",
+              ""
+            ],
+            [
+              41180.0,
+              "Kedzie",
+              "11 min",
+              ""
+            ],
+            [
+              41290.0,
+              "Kimball",
+              "12 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.91822,
+            "Lng": -87.65264
+          },
+          "RunNumber": "421",
+          "CurrentStationId": "31398",
+          "ExitStationId": "31740",
+          "Direction": 1.60403625382823,
+          "LineName": "Brn",
+          "DirMod": "to",
+          "DestName": "Kimball",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_brown",
+          "Predictions": [
+            [
+              40660.0,
+              "Armitage",
+              "Due",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "2 min",
+              ""
+            ],
+            [
+              40530.0,
+              "Diversey",
+              "4 min",
+              ""
+            ],
+            [
+              41210.0,
+              "Wellington",
+              "6 min",
+              ""
+            ],
+            [
+              41320.0,
+              "Belmont",
+              "7 min",
+              ""
+            ],
+            [
+              40360.0,
+              "Southport",
+              "10 min",
+              ""
+            ],
+            [
+              41310.0,
+              "Paulina",
+              "12 min",
+              ""
+            ],
+            [
+              41440.0,
+              "Addison",
+              "13 min",
+              ""
+            ],
+            [
+              41460.0,
+              "Irving Park",
+              "15 min",
+              ""
+            ],
+            [
+              41500.0,
+              "Montrose",
+              "17 min",
+              ""
+            ],
+            [
+              40090.0,
+              "Damen",
+              "19 min",
+              ""
+            ],
+            [
+              41480.0,
+              "Western",
+              "20 min",
+              ""
+            ],
+            [
+              41010.0,
+              "Rockwell",
+              "21 min",
+              ""
+            ],
+            [
+              40870.0,
+              "Francisco",
+              "23 min",
+              ""
+            ],
+            [
+              41180.0,
+              "Kedzie",
+              "24 min",
+              ""
+            ],
+            [
+              41290.0,
+              "Kimball",
+              "25 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.88897,
+            "Lng": -87.63397
+          },
+          "RunNumber": "422",
+          "CurrentStationId": "31291",
+          "ExitStationId": "31740",
+          "Direction": 1.61454172221725,
+          "LineName": "Brn",
+          "DirMod": "to",
+          "DestName": "Kimball",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_brown",
+          "Predictions": [
+            [
+              40460.0,
+              "Merchandise Mart",
+              "Due",
+              ""
+            ],
+            [
+              40710.0,
+              "Chicago",
+              "3 min",
+              ""
+            ],
+            [
+              40800.0,
+              "Sedgwick",
+              "7 min",
+              ""
+            ],
+            [
+              40660.0,
+              "Armitage",
+              "11 min",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "14 min",
+              ""
+            ],
+            [
+              40530.0,
+              "Diversey",
+              "16 min",
+              ""
+            ],
+            [
+              41210.0,
+              "Wellington",
+              "18 min",
+              ""
+            ],
+            [
+              41320.0,
+              "Belmont",
+              "19 min",
+              ""
+            ],
+            [
+              40360.0,
+              "Southport",
+              "22 min",
+              ""
+            ],
+            [
+              41310.0,
+              "Paulina",
+              "23 min",
+              ""
+            ],
+            [
+              41440.0,
+              "Addison",
+              "25 min",
+              ""
+            ],
+            [
+              41460.0,
+              "Irving Park",
+              "27 min",
+              ""
+            ],
+            [
+              41500.0,
+              "Montrose",
+              "28 min",
+              ""
+            ],
+            [
+              40090.0,
+              "Damen",
+              "30 min",
+              ""
+            ],
+            [
+              41480.0,
+              "Western",
+              "31 min",
+              ""
+            ],
+            [
+              41010.0,
+              "Rockwell",
+              "33 min",
+              ""
+            ],
+            [
+              40870.0,
+              "Francisco",
+              "34 min",
+              ""
+            ],
+            [
+              41180.0,
+              "Kedzie",
+              "36 min",
+              ""
+            ],
+            [
+              41290.0,
+              "Kimball",
+              "37 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.94393,
+            "Lng": -87.65646
+          },
+          "RunNumber": "423",
+          "CurrentStationId": "35240",
+          "ExitStationId": "31740",
+          "Direction": 0.0136706901470657,
+          "LineName": "Brn",
+          "DirMod": "to",
+          "DestName": "Loop",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_brown",
+          "Predictions": [
+            [
+              41320.0,
+              "Belmont",
+              "Due",
+              ""
+            ],
+            [
+              41210.0,
+              "Wellington",
+              "2 min",
+              ""
+            ],
+            [
+              40530.0,
+              "Diversey",
+              "3 min",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "6 min",
+              ""
+            ],
+            [
+              40660.0,
+              "Armitage",
+              "8 min",
+              ""
+            ],
+            [
+              40800.0,
+              "Sedgwick",
+              "12 min",
+              ""
+            ],
+            [
+              40710.0,
+              "Chicago",
+              "15 min",
+              ""
+            ],
+            [
+              40460.0,
+              "Merchandise Mart",
+              "17 min",
+              ""
+            ],
+            [
+              40730.0,
+              "Washington/Wells",
+              "20 min",
+              ""
+            ],
+            [
+              40040.0,
+              "Quincy",
+              "21 min",
+              ""
+            ],
+            [
+              40160.0,
+              "LaSalle/Van Buren",
+              "22 min",
+              ""
+            ],
+            [
+              40850.0,
+              "Harold Washington Library-State/Van Buren",
+              "23 min",
+              ""
+            ],
+            [
+              40680.0,
+              "Adams/Wabash",
+              "26 min",
+              ""
+            ],
+            [
+              41700.0,
+              "Washington/Wabash",
+              "27 min",
+              ""
+            ],
+            [
+              40260.0,
+              "State/Lake",
+              "29 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "30 min",
+              ""
+            ],
+            [
+              40460.0,
+              "Merchandise Mart",
+              "32 min",
+              ""
+            ],
+            [
+              40710.0,
+              "Chicago",
+              "35 min",
+              ""
+            ],
+            [
+              40800.0,
+              "Sedgwick",
+              "39 min",
+              ""
+            ],
+            [
+              40660.0,
+              "Armitage",
+              "43 min",
+              ""
+            ],
+            [
+              41220.0,
+              "Fullerton",
+              "46 min",
+              ""
+            ],
+            [
+              40530.0,
+              "Diversey",
+              "48 min",
+              ""
+            ],
+            [
+              41210.0,
+              "Wellington",
+              "49 min",
+              ""
+            ],
+            [
+              41320.0,
+              "Belmont",
+              "51 min",
+              ""
+            ],
+            [
+              40360.0,
+              "Southport",
+              "54 min",
+              ""
+            ],
+            [
+              41310.0,
+              "Paulina",
+              "55 min",
+              ""
+            ],
+            [
+              41440.0,
+              "Addison",
+              "57 min",
+              ""
+            ],
+            [
+              41460.0,
+              "Irving Park",
+              "58 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        }
+      ]
+    },
+    {
+      "Line": "O",
+      "Markers": [
+        {
+          "Position": {
+            "Lat": 41.79971,
+            "Lng": -87.7249
+          },
+          "RunNumber": "711",
+          "CurrentStationId": "55500",
+          "ExitStationId": "55520",
+          "Direction": 3.51516831502338,
+          "LineName": "Org",
+          "DirMod": "to",
+          "DestName": "Midway ",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_orange",
+          "Predictions": [
+            [
+              40930.0,
+              "Midway",
+              "2 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.82949,
+            "Lng": -87.6807
+          },
+          "RunNumber": "712",
+          "CurrentStationId": "51100",
+          "ExitStationId": "55520",
+          "Direction": 0.531221729671931,
+          "LineName": "Org",
+          "DirMod": "to",
+          "DestName": "Loop",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_orange",
+          "Predictions": [
+            [
+              41060.0,
+              "Ashland",
+              "2 min",
+              ""
+            ],
+            [
+              41130.0,
+              "Halsted",
+              "4 min",
+              ""
+            ],
+            [
+              41400.0,
+              "Roosevelt",
+              "9 min",
+              ""
+            ],
+            [
+              40850.0,
+              "Harold Washington Library-State/Van Buren",
+              "13 min",
+              ""
+            ],
+            [
+              40160.0,
+              "LaSalle/Van Buren",
+              "15 min",
+              ""
+            ],
+            [
+              40040.0,
+              "Quincy",
+              "16 min",
+              ""
+            ],
+            [
+              40730.0,
+              "Washington/Wells",
+              "17 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "20 min",
+              ""
+            ],
+            [
+              40260.0,
+              "State/Lake",
+              "22 min",
+              ""
+            ],
+            [
+              41700.0,
+              "Washington/Wabash",
+              "24 min",
+              ""
+            ],
+            [
+              40680.0,
+              "Adams/Wabash",
+              "25 min",
+              ""
+            ],
+            [
+              41400.0,
+              "Roosevelt",
+              "29 min",
+              ""
+            ],
+            [
+              41130.0,
+              "Halsted",
+              "35 min",
+              ""
+            ],
+            [
+              41060.0,
+              "Ashland",
+              "37 min",
+              ""
+            ],
+            [
+              40120.0,
+              "35th/Archer",
+              "39 min",
+              ""
+            ],
+            [
+              40310.0,
+              "Western",
+              "44 min",
+              ""
+            ],
+            [
+              41150.0,
+              "Kedzie",
+              "47 min",
+              ""
+            ],
+            [
+              40960.0,
+              "Pulaski",
+              "49 min",
+              ""
+            ],
+            [
+              40930.0,
+              "Midway",
+              "52 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.80435,
+            "Lng": -87.70441
+          },
+          "RunNumber": "716",
+          "CurrentStationId": "55480",
+          "ExitStationId": "55520",
+          "Direction": 3.14895938435392,
+          "LineName": "Org",
+          "DirMod": "to",
+          "DestName": "Midway ",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_orange",
+          "Predictions": [
+            [
+              40960.0,
+              "Pulaski",
+              "2 min",
+              ""
+            ],
+            [
+              40930.0,
+              "Midway",
+              "5 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.82949,
+            "Lng": -87.6807
+          },
+          "RunNumber": "717",
+          "CurrentStationId": "55440",
+          "ExitStationId": "55520",
+          "Direction": 3.67281438326172,
+          "LineName": "Org",
+          "DirMod": "to",
+          "DestName": "Midway ",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_orange",
+          "Predictions": [
+            [
+              40310.0,
+              "Western",
+              "4 min",
+              ""
+            ],
+            [
+              41150.0,
+              "Kedzie",
+              "7 min",
+              ""
+            ],
+            [
+              40960.0,
+              "Pulaski",
+              "9 min",
+              ""
+            ],
+            [
+              40930.0,
+              "Midway",
+              "12 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.8795,
+            "Lng": -87.6261
+          },
+          "RunNumber": "718",
+          "CurrentStationId": "55260",
+          "ExitStationId": "55520",
+          "Direction": 4.74903131591383,
+          "LineName": "Org",
+          "DirMod": "to",
+          "DestName": "Midway ",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_orange",
+          "Predictions": [
+            [
+              41400.0,
+              "Roosevelt",
+              "3 min",
+              ""
+            ],
+            [
+              41130.0,
+              "Halsted",
+              "9 min",
+              ""
+            ],
+            [
+              41060.0,
+              "Ashland",
+              "12 min",
+              ""
+            ],
+            [
+              40120.0,
+              "35th/Archer",
+              "14 min",
+              ""
+            ],
+            [
+              40310.0,
+              "Western",
+              "18 min",
+              ""
+            ],
+            [
+              41150.0,
+              "Kedzie",
+              "21 min",
+              ""
+            ],
+            [
+              40960.0,
+              "Pulaski",
+              "24 min",
+              ""
+            ],
+            [
+              40930.0,
+              "Midway",
+              "26 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        },
+        {
+          "Position": {
+            "Lat": 41.87697,
+            "Lng": -87.63365
+          },
+          "RunNumber": "719",
+          "CurrentStationId": "55061",
+          "ExitStationId": "55520",
+          "Direction": 1.98124592104773,
+          "LineName": "Org",
+          "DirMod": "to",
+          "DestName": "Midway ",
+          "IsSched": false,
+          "CSSClass": "ttpm_predslip_orange",
+          "Predictions": [
+            [
+              40040.0,
+              "Quincy",
+              "Due",
+              ""
+            ],
+            [
+              40730.0,
+              "Washington/Wells",
+              "2 min",
+              ""
+            ],
+            [
+              40380.0,
+              "Clark/Lake",
+              "5 min",
+              ""
+            ],
+            [
+              40260.0,
+              "State/Lake",
+              "6 min",
+              ""
+            ],
+            [
+              41700.0,
+              "Washington/Wabash",
+              "8 min",
+              ""
+            ],
+            [
+              40680.0,
+              "Adams/Wabash",
+              "9 min",
+              ""
+            ],
+            [
+              41400.0,
+              "Roosevelt",
+              "13 min",
+              ""
+            ],
+            [
+              41130.0,
+              "Halsted",
+              "19 min",
+              ""
+            ],
+            [
+              41060.0,
+              "Ashland",
+              "22 min",
+              ""
+            ],
+            [
+              40120.0,
+              "35th/Archer",
+              "24 min",
+              ""
+            ],
+            [
+              40310.0,
+              "Western",
+              "28 min",
+              ""
+            ],
+            [
+              41150.0,
+              "Kedzie",
+              "31 min",
+              ""
+            ],
+            [
+              40960.0,
+              "Pulaski",
+              "34 min",
+              ""
+            ],
+            [
+              40930.0,
+              "Midway",
+              "36 min",
+              ""
+            ]
+          ],
+          "Flags": ""
+        }
+      ]
+    }
+  ]
+}
