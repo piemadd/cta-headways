@@ -114,10 +114,11 @@ const processData = (data) => {
 
 const updateData = () => {
   fetch(endpoint)
-    .then((response) => response.json())
+    .then((response) => response.text())
     .then((data) => {
-      processData(data);
-      setInterval(updateData, process.env.UPDATE_INTERVAL);
+      const parsed = JSON.parse(data);
+      processData(parsed);
+      setTimeout(updateData, process.env.UPDATE_INTERVAL);
     })
     .catch((error) => {
       console.log(error);
