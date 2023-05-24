@@ -1,8 +1,5 @@
 const express = require('express');
-
-if (!fetch) {
-  const fetch = require('node-fetch');
-}
+const fetch = require('node-fetch');
 
 const app = express();
 
