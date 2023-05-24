@@ -38,6 +38,7 @@ const processData = (data) => {
   let processedData = {
     lines: {},
     stations: {},
+    interval: process.env.UPDATE_INTERVAL,
   };
 
   data.dataObject.forEach((line) => {
