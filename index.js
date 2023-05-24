@@ -1,5 +1,9 @@
 const express = require('express');
 
+if (!fetch) {
+  const fetch = require('node-fetch');
+}
+
 const app = express();
 
 const endpoint = 'https://www.transitchicago.com/traintracker/PredictionMap/tmTrains.aspx?line=R%2CP%2CY%2CB%2CV%2CG%2CT%2CO&MaxPredictions=200';
