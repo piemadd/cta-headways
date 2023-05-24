@@ -136,6 +136,11 @@ app.get('/all', (req, res) => {
   res.send(JSON.stringify(appData));
 });
 
+app.get('/updateInterval', (req, res) => {
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.send(process.env.UPDATE_INTERVAL);
+});
+
 app.listen(3000, () => {
   console.log('Server listening on port 3000');
 });
