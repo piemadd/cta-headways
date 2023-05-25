@@ -18,19 +18,28 @@ const actualLines = {
   'O': 'Orange',
 }
 
+const lineMeta = {
+  'P': {
+    loopLimit: 40460.0,
+    postLoopAlt: 'Linden'
+  },
+  'V': {
+    loopLimit: 41160.0,
+    postLoopAlt: '54th/Cermak'
+  },
+  'T': {
+    loopLimit: 40460.0,
+    postLoopAlt: 'Kimball'
+  },
+  'O': {
+    loopLimit: 41400.0,
+    postLoopAlt: 'Midway'
+  }
+};
+
 let appData = {};
 
-const calcAvgHeadway = (headways) => {
-  if (headways.length === 1) return headways[0];
-
-  const actualHeadways = headways.map((headway, i, arr) => {
-    if (i === 0) return headway;
-    return headway - arr[i - 1];
-  })
-
-  const totalHeadway = actualHeadways.reduce((a, b) => a + b, 0);
-  return Math.round(totalHeadway / actualHeadways.length);
-};
+const calcAvgHeadway = array => array.reduce((a, b) => a + b) / array.length;
 
 const processData = (data) => {
   if (data?.status !== 'OK') return {};
@@ -48,62 +57,86 @@ const processData = (data) => {
     line.Markers.forEach((train) => {
       if (train.IsSched) return;
 
+      let stationPastLoop = false;
+
       train.Predictions.forEach((prediction) => {
-        const dest = train.DestName.split('&')[0];
+        let dest = train.DestName.split('&')[0];
         const eta = Number(prediction[2].replaceAll('Due', '1').replaceAll('<b>', '').replaceAll('</b>', '').split(' ')[0]);
 
         if (!isNaN(eta)) {
-          if (!stations[prediction[1]]) {
-            stations[prediction[1]] = {};
+          //setting up station if it doesn't exist
+          if (!stations[parseInt(prediction[0])]) {
+            stations[parseInt(prediction[0])] = {
+              dest: {},
+              stationName: prediction[1],
+            };
           };
 
-          if (!stations[prediction[1]][dest]) {
-            stations[prediction[1]][dest] = {
+          // changing destination if past station before loop
+          if (stationPastLoop) {
+            dest = lineMeta[line.Line].postLoopAlt;
+          }
+
+          //setting up destination if it doesn't exist
+          if (!stations[parseInt(prediction[0])]['dest'][dest]) {
+            stations[parseInt(prediction[0])]['dest'][dest] = {
+              etas: [],
               headways: [],
               avgHeadway: 0,
             };
           };
 
           //adding headway to station
-          stations[prediction[1]][dest].headways.push(eta);
+          stations[parseInt(prediction[0])]['dest'][dest].etas.push(eta);
         }
+
+        if (lineMeta[line.Line] && prediction[0] == lineMeta[line.Line].loopLimit) {
+          stationPastLoop = true;
+        };
       });
     });
 
-    //calculating average headway for each station
+    //looping through stations
     Object.keys(stations).forEach((station) => {
-      Object.keys(stations[station]).forEach((dest) => {
-        stations[station][dest].avgHeadway = calcAvgHeadway(stations[station][dest].headways);
+      Object.keys(stations[station]['dest']).forEach((dest) => {
+        //sorting ETAs
+        stations[station]['dest'][dest].etas.sort((a, b) => a - b);
 
-        if (!processedData.stations[station]) {
-          processedData.stations[station] = {};
-        }
+        //calculating headways
+        stations[station]['dest'][dest].etas.forEach((eta, i, arr) => {
+          if (i === 0) stations[station]['dest'][dest].headways.push(eta);
+          else stations[station]['dest'][dest].headways.push(eta - arr[i - 1]);
+        });
 
-        if (!processedData.stations[station][actualLines[line.Line]]) {
-          processedData.stations[station][actualLines[line.Line]] = {};
-        }
-        processedData.stations[station][actualLines[line.Line]][dest] = stations[station][dest].avgHeadway;
-      });
-    });
-
-    //calculating the average headway for each destination
-    Object.keys(stations).forEach((station) => {
-      Object.keys(stations[station]).forEach((dest) => {
+        //adding headways array to line headways
         if (!headways[dest]) {
           headways[dest] = {
             headways: [],
             avgHeadway: 0,
-          };
+          }
         };
 
-        headways[dest].headways.push(stations[station][dest].avgHeadway);
+        headways[dest].headways = headways[dest].headways.concat(stations[station]['dest'][dest].headways);
+
+        //calculating average headway
+        stations[station]['dest'][dest].avgHeadway = calcAvgHeadway(stations[station]['dest'][dest].headways);
       });
     });
 
-    //calculating the average headway for each destination
     Object.keys(headways).forEach((dest) => {
-      //console.log(headways[dest].headways)
-      headways[dest] = Math.round(headways[dest].headways.reduce((a, b) => a + b, 0) / headways[dest].headways.length);
+      headways[dest].avgHeadway = calcAvgHeadway(headways[dest].headways);
+    });
+
+    //adding stations to processedData
+    Object.keys(stations).forEach((station) => {
+      if (!processedData.stations[station]) {
+        processedData.stations[station] = {
+          stationName: stations[station].stationName,
+          lines: {},
+        };
+      };
+
+      processedData.stations[station].lines[actualLines[line.Line]] = stations[station].dest;
     });
 
     processedData.lines[actualLines[line.Line]] = headways;
