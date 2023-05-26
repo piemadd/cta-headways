@@ -53,17 +53,26 @@ const processData = (data) => {
   let processedData = {
     lines: {},
     stations: {},
+    trains: {},
     interval: process.env.UPDATE_INTERVAL,
   };
 
   data.dataObject.forEach((line) => {
     let stations = {};
     let headways = {};
+    let trains = {};
 
     line.Markers.forEach((train) => {
       if (train.IsSched) return;
 
       let stationPastLoop = false;
+
+      processedData.trains[train.RunNumber] = {
+        lat: train.Position.Lat,
+        lon: train.Position.Lng,
+        heading: train.Direction,
+        line: actualLines[line.Line],
+      };
 
       train.Predictions.forEach((prediction, i, arr) => {
         let dest = train.DestName.split('&')[0];
@@ -186,7 +195,7 @@ const processData = (data) => {
   })
 
   processedData.lastUpdated = new Date().toISOString();
-  processedData.versionNumberAPI = '1.3.0'
+  processedData.versionNumberAPI = '1.4.0'
   appData = processedData;
 };
 
