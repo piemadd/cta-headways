@@ -98,7 +98,7 @@ const processData = (data) => {
 
           //adding run number to station
           stations[parseInt(prediction[0])]['dest'][dest].runNumbers.push(train.RunNumber);
-        
+
           //if final station, adding headway to line
           if (i === arr.length - 1 || (lineMeta[line.Line] && prediction[0] == lineMeta[line.Line].loopLimit)) {
             if (!headways[dest]) {
@@ -185,6 +185,7 @@ const processData = (data) => {
     console.log('Data updated!')
   })
 
+  processedData.lastUpdated = new Date().toISOString();
   appData = processedData;
 };
 
