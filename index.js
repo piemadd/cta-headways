@@ -59,7 +59,7 @@ const processData = (data) => {
 
       let stationPastLoop = false;
 
-      train.Predictions.forEach((prediction) => {
+      train.Predictions.forEach((prediction, i, arr) => {
         let dest = train.DestName.split('&')[0];
         const eta = Number(prediction[2].replaceAll('Due', '1').replaceAll('<b>', '').replaceAll('</b>', '').split(' ')[0]);
 
@@ -92,8 +92,24 @@ const processData = (data) => {
 
           //adding run number to station
           stations[parseInt(prediction[0])]['dest'][dest].runNumbers.push(train.RunNumber);
+        
+          //if final station, adding headway to line
+          if (i === arr.length - 1 || (lineMeta[line.Line] && prediction[0] == lineMeta[line.Line].loopLimit)) {
+            if (!headways[dest]) {
+              headways[dest] = {
+                etas: [],
+                headways: [],
+                avgHeadway: 0,
+                runNumbers: [],
+              };
+            };
+
+            headways[dest].etas.push(eta);
+            headways[dest].runNumbers.push(train.RunNumber);
+          }
         }
 
+        //checking if train is past loop
         if (lineMeta[line.Line] && prediction[0] == lineMeta[line.Line].loopLimit) {
           stationPastLoop = true;
         };
@@ -112,23 +128,23 @@ const processData = (data) => {
           else stations[station]['dest'][dest].headways.push(eta - arr[i - 1]);
         });
 
-        //adding headways array to line headways
-        if (!headways[dest]) {
-          headways[dest] = {
-            headways: [],
-            avgHeadway: 0,
-            runNumbers: [],
-          }
-        };
-
-        headways[dest].headways = headways[dest].headways.concat(stations[station]['dest'][dest].headways);
-
         //calculating average headway
         stations[station]['dest'][dest].avgHeadway = calcAvgHeadway(stations[station]['dest'][dest].headways);
       });
     });
 
+    //looping through headways
     Object.keys(headways).forEach((dest) => {
+      //sorting ETAs
+      headways[dest].etas.sort((a, b) => a - b);
+
+      //calculating headways
+      headways[dest].etas.forEach((eta, i, arr) => {
+        if (i === 0) headways[dest].headways.push(eta);
+        else headways[dest].headways.push(eta - arr[i - 1]);
+      });
+
+      //calculating average headway
       headways[dest].avgHeadway = calcAvgHeadway(headways[dest].headways);
     });
 
@@ -142,12 +158,6 @@ const processData = (data) => {
       };
 
       processedData.stations[station].lines[actualLines[line.Line]] = stations[station].dest;
-    });
-
-    //adding run numbers to headways
-    line.Markers.forEach((train) => {
-      if (train.IsSched) return;
-      headways[train.DestName.split('&')[0]].runNumbers.push(train.RunNumber);
     });
 
     //adding headways to processedData
