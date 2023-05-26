@@ -37,6 +37,12 @@ const lineMeta = {
   }
 };
 
+const additionalStops = {
+  'B': {
+    'Forest Park': 'UIC-Halsted',
+  }
+};
+
 let appData = {};
 
 const calcAvgHeadway = array => array.reduce((a, b) => a + b) / array.length;
@@ -106,6 +112,20 @@ const processData = (data) => {
 
             headways[dest].etas.push(eta);
             headways[dest].runNumbers.push(train.RunNumber);
+          }
+
+          if (additionalStops[line.Line] && additionalStops[line.Line][prediction[1]]) {
+            if (!headways[additionalStops[line.Line][prediction[1]]]) {
+              headways[additionalStops[line.Line][prediction[1]]] = {
+                etas: [],
+                headways: [],
+                avgHeadway: 0,
+                runNumbers: [],
+              };
+            }
+
+            headways[additionalStops[line.Line][prediction[1]]].etas.push(eta);
+            headways[additionalStops[line.Line][prediction[1]]].runNumbers.push(train.RunNumber);
           }
         }
 
