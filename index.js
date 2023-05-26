@@ -186,6 +186,7 @@ const processData = (data) => {
   })
 
   processedData.lastUpdated = new Date().toISOString();
+  processedData.versionNumberAPI = '1.3.0'
   appData = processedData;
 };
 
