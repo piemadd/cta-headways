@@ -83,11 +83,15 @@ const processData = (data) => {
               etas: [],
               headways: [],
               avgHeadway: 0,
+              runNumbers: [],
             };
           };
 
           //adding headway to station
           stations[parseInt(prediction[0])]['dest'][dest].etas.push(eta);
+
+          //adding run number to station
+          stations[parseInt(prediction[0])]['dest'][dest].runNumbers.push(train.RunNumber);
         }
 
         if (lineMeta[line.Line] && prediction[0] == lineMeta[line.Line].loopLimit) {
@@ -113,6 +117,7 @@ const processData = (data) => {
           headways[dest] = {
             headways: [],
             avgHeadway: 0,
+            runNumbers: [],
           }
         };
 
@@ -139,6 +144,13 @@ const processData = (data) => {
       processedData.stations[station].lines[actualLines[line.Line]] = stations[station].dest;
     });
 
+    //adding run numbers to headways
+    line.Markers.forEach((train) => {
+      if (train.IsSched) return;
+      headways[train.DestName.split('&')[0]].runNumbers.push(train.RunNumber);
+    });
+
+    //adding headways to processedData
     processedData.lines[actualLines[line.Line]] = headways;
     console.log('Data updated!')
   })
